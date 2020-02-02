@@ -1,0 +1,919 @@
+sleep wait
+https lombok github origoni Blog com
+
+if doCalc null someobject
+select int VoteNum while JOptionPane generated showConfirmDialog update getInt String else this public YES block if NO D i TODO A JLabel PreparedStatement sum SQLException charAt Result getSource e sql catch void str new printStackTrace num try E OPTION C null from where DB stmt isSelected Auto B rs con n next pstmt setInt setText executeUpdate ActionEvent close count executeQuery Override actionPerformed prepareStatement set label
+Vector ArrayList
+bug string equals
+int results class path Main throws IOException API String out public static ToolrunInputStreaminOutputStreamoutOutputStreamerrStringarguments tools Success println com void import http Compiler compiler x s main null Foo ToolProvider htm args io www getSystem run Code System
+int ArrayIndexOutOfBoundsException while class at Main Array out String public in static i println void new x Exception main args length lang thread System
+int elapsed api cspa pct object API size JSONObject volume for out toString i message true println h BTC code bodyArray get updated null JSONArray usd CSPA change data System btc JSON success
+Data too column long for
+https ujigoxpkqkezmj uppprjeo res ufha pe gw eightcruz cloudinary jpg m v wpq upload image com
+setDummy DummyBean but new getDummy dumtwo bar it print prints should System dum out println foo
+api
+int MESSAGE what READ word String buttonTimer byte for public Message UnsupportedEncodingException obj if android i split j e catch void handleMessage new printStackTrace try array Timer null UTF BT readMessage os msg length
+int B static a A b C public
+
+int getBbsTitle jsp while WHERE tr a LIMIT NUM setBbsAvailable SQL BBSAVAILABLE add size ArrayList FROM OVER String for BETWEEN getInt public Bbs BY getUserID bbsDAO i td ORDER setBbsContent getString PreparedStatement list view NUMBER AND catch e return bbsID new printStackTrace getBbsDate conn href BbsDAO try setUserID sdfsdfsdfsd BBSID Exception BBS get getList setBbsTitle string getBbsID dao setBbsID bbs pageNumber rs next pstmt setInt executeQuery ROW prepareStatement setBbsDate SELECT
+AuthenticationProvider Securtiy An a type delegates allow extra method like which if supports caller AuthenticationManager an https of architecture Authentication it query given to implementation most is The the commonly used ProviderManager instances has security topicals io delegate guides bit chain delegation but
+https jsp png res jar eightcruz jewc html mtlb cloudinary pf izssmzj v mysql upload image com
+Vec while text class name path r compile FileReader a throws StringTokenizer annotations IOException Z makeWord String for public if static group dirFile tempFile BufferedReader true zA line A FileWriter fw skarl void listFiles import File new org isFile regexMatcher matchLine write main br find C jetbrains null break NotNull contains matcher Matcher n Pattern args regex Users BufferedWriter txt Desktop io readLine util close package fileList getName
+class java static line authorAttr transform book dom main null XML xml OutputKeys NodeList StreamResult bi tr createAttribute FileReader ParserConfigurationException parsers FileNotFoundException String if newFileOutputStream DocumentBuilder Transformer appendChild titleAttr finally Document booklist stream source bookArry w readLine result CSV csvFile while INDENT DocumentBuilderFactory Xml IOException c csvSplit yes publisherAttr catch import csv printStackTrace org bookinfo TransformerException try dbFactory TransformerFactory bfReader args newFile createElement test io close domBuilder newTransformer setOutputProperty Csv public DOMSource BufferedReader split translatorAttr javax e void Attr new newInstance ENCODING newDocumentBuilder UTF Element tfFactory newDocument
+int setBorder class y BorderLayout contentPane JPanel setBounds JYCanvas add extends JTabbedPane black height Graphics update public fillOval EXIT EmptyBorder setContentPane setLayout ON void new tabbedPane Canvas x paint canvas Color panel CLOSE null color setColor TOP setDefaultCloseOperation g width JFrame addTab
+n readFileAsString text textfile txt String replace
+
+
+select startDate t stamp and name a word FROM String like if rownum equals sql fileName story as from where between test count time SELECT
+bitmap okhttp Okhttp Response URL
+InterruptedException TimeoutException printStackTrace try task TimeUnit ExecutionException get execute async MILLISECONDS e catch
+select class name size ArrayList forName static oracle url ID Exception main null userid next JobBean lang util DbConnection arr row jobList package getName int reflect SQL String for if i getString sql Id getRow finally userpw setAddress jdbc Statement get DB inosys rs arraylist SELECT passwd while getMessage db FROM thin member println catch import setId strArray printStackTrace conn createStatement try query stmt args test length executeUpdate close executeQuery ResultSet Connection setPasswd Error setName Array out public address jobBean orcl SQLException e OracleDriver void getPasswd bean new getAddress getConnection DriverManager driver getId System localhost Class
+int class InputStreamReader X throws IOException ArrayList bw exit String out for add public in if static Quiz i BufferedReader split A OutputStreamWriter list input parseInt println e void import N Iterator new write main get br bufferedreader output tmp n args BufferedWriter io readLine util close Integer System package
+https kg png res nruipxfqyjf eightcruz child azsww v com database upload image cloudinary
+a Short short b
+Immutable
+vs package IDE
+bufferedImage ImageUtil awt ImageIo BufferedImage imageio
+void do selector Objective DoSomething afterDelay performSelector here withObject nil something self C public
+Boot int SpringBootApplication client class text lombok java tutorial appsdeveloperblog myid String out Application public exchange Accept id dto HttpHeaders application restTemplate static statusCode getBody Data springframework GatewayApplication HTTP example plain entity println Client com void http str new Dto org RestTemplate json Rest OK to HttpMethod URL main get HttpEntity GET web demo null as string statusDesc args private ResponseEntity Response headers response Reading lang resttemplate System JSON set spring DEBUG
+register menus class generated name process ok getDept Scanner ArrayList else Controller switch list found StudentDAO student Exception printRegister null getEmail sc Auto private next util package getName kr int studentDAO default studentCtrl stub exit String for delete induk if i open DAO nextInt view return email create StudentView false setEmail break listAll printStudentList VIEW readList vs indexOf dept throw substring case while a getMessage method in getHakbun TODO print printStudent Student implements println save printException catch import studentList b try s io length ac close Override model InputStreamReader isValidEmail setName update m out public boolean address BufferedReader egyou true StudentController studentView e com void hakbun mail new key setHakbun command setDept n controller System read
+getScaledInstance
+int ArrayIndexOutOfBoundsException name a at grade out for String su in tel i split line Student parseInt println number of str lee num Index x b Exception main br p null n myPack bounds length readLine lang Integer thread System
+do if Something THEN ArrayList list equals If object String method WORDS
+long String
+array arraylist db
+png res name ukhfws eightcruz cloudinary adnqwfhwccde com yujvgadrjevrtqgewk HTML http tag v Unknown validator DTD sitemesh upload image
+Syntax token error on expected after this
+int id aaa i L arraylist size get put long jsonObject
+parsing client at java sqlMapConfig sqlMap Error linux Main db IOException Cause ibatis not NodeletException more common by server QueryProcess Swt SqlMapConfig occurred builder com MyAppSqlMapConfig XPath core processProtocol Could jar war parse clinit engine QurryProcess swt Caused find Process resource io tomcat SqlMapConfigParser buildSqlMapClient lang sqlmap run SqlMapClientBuilder Core XML RuntimeException application NodeletParser xml
+t class name java display total readName EmployeeDB else setEditable cmd static search readRec GridLayout found bottom Record number Can writeChar during awt remove final getActionCommand main readChar South null access addB Name f private getNum removeB getText setVisible getName getTel int setEnabled myRAFile BorderLayout fieldPosition recordOffset Layout recordCount LabeledTextField extends exit String Button for rec writeRec rw isEditable if REMOVE i super initialize agrs Panel table setLayout return RandomAccessFile false append SEARCH break setText getPart NONE ActionEvent labelPosition dept label addActionListener while lt red db IOException this toString dispose ESC exitB phone j Table recordLength Label implements escB equals file charAt println catch Frame import labelString event TextField seek try TOTAL p West msg args ActionListener io esc left length close Integer count searchB Plsition ioe part index trim m add dat out totalB public boolean employee tel ADD true len FlowLayout nameString setActionCommand writing parseInt na e void setBackground writeInt new num setSize readInt Color action field able getIndex n Center TextArea System read actionPerformed
+math case nuber while class me y at enter and subtraction Put Bye Scanner m default String out else in public if static Please Hi print true double Enter switch great println void number import return of code N new really then x to I am main one break z the nextDouble n args next test press or util good System operations scan bye
+int Bermuda Cozumel while class y TestArrays index String islands out public Fiji static print println void new array main args System ref Azores island
+void int static args k new test a in out throws array IOException System main String println public
+CALCULATE RETURN startActivityForResult EditText intent onActivityResult RESULT
+stockArr stock array list toArray ArrayList world String hello
+int case default class month setMonth MyDateTest Wrong MyDate String out else public this boolean if static setter true wrong switch println getYear return void getMonth new d setYear main getDay year isValid false break args private Right day setDay System
+getFileDescriptor class Context name pageWidth java else isCanceled RED onLayoutCancelled pageInfo content setContentView printManager destination final FileOutputStream null string private document getPageHeight xml int WriteResultCallback getCanvas PrintDocumentInfo getSystemService extends String for onWriteCancelled if PRINT i onLayoutFinished getHeightMils getString som getEnd leftMargin R getStart PageRange view builder AppCompatActivity return getInfo finally Document TYPE writeTo PrintDocumentAdapter create cancellationSignal myPdfDocument onWriteFailed false build onLayoutFailed setContentType verify Bundle CustomPrintActivity onclick pageHeight BLACK PrintedPdfDocument newAttributes Paint CancellationSignal IOException PageInfo setPageCount this toString finishPage pageRanges PrintManager android getWidthMils print onWriteFinished oldAttributes printing newPage drawText catch import zero MyPrintDocumentAdapter DOCUMENT try paint to oncreate canvas Test metadata Page is drawPage output setColor titleBaseLine test length GREEN app close Count Override onWrite totalpages View works getMediaSize context ParcelFileDescriptor startPage jopName public boolean printDocument true pagenumber PrintAttributes e CONTENT void callback PdfDocument new pdf Canvas drawCircle pageInRange LayoutResultCallback info Color that page setTextSize SERVICE onLayout custom Builder
+string
+final
+id client params method jsonrpc
+songchoice Uri MediaPlayer create context String
+math parseLong Math a type b pow out Long double System long println
+
+cmd error class a Command be named in should declared undefined file String is public failed
+HTTP
+Centos currentTimeMillis now System MySQL DB
+Set new HashSet list myset
+ArrayUtils int Random class generated and java merged IntStream String for out else public this toString in if static i mergedArray nextInt sizeOfArray println ArrayUtilsTester return void import new random stream array Smallest main setArr is The the minValue args private between findMin aut length getArr mergeArrays integer util arr System randomly Arrays
+username Map Object work date department schedule ArrayList String
+
+valueOf Long parseDouble parseInt parseFloat string parseLong
+a c d b
+t new name add st list ArrayList System s get out Trajectory println
+xsi Email auth schemaLocation dataSource class Context name java check infrastructure javamail XMLHttpRequest annotation utf starttls raljpkvtdasgab else xmlns do autocomplete Root firstChild Controller static DispatcherServlet javaMailProperties Ajax defaultEncoding props callBack springframework shared constructor function var url green JavaMailSenderImpl rlawlals instance ID web apache MVC null password Multipart Resolaver document prefix arg www XMLSchema ref package script port image xml int BasicDataSource mx responseXML efficiently png res onreadystatechange servlet type sqlSessionFactory innerHTML serving prop String for username if syareun open printData rtkiv Handles resources EmailSender xmlReq mybatis directory view processing gt schema mvc Spring Resolves http RequestParam exclude suffix status email CommonsMultipartResolver version rendering write host idTag false append GET color sqlSession v setContentType beans w rootTag result views upload Controllers createAjax encoding INF a Enables documentElement InternalResourceViewResolver getWriter eightcruz other root IOException method getElementsByTagName off idCheck stereotype toString cloudinary Memberservice getElementById send this in webappRoot multipart smtp PropertyPlaceholderConfigurer driven readyState all join property StringBuffer println MemberController str org location properties gmail javascript nodeValue to idNode s HttpServletResponse br components config span the RequestMapping style SqlSessionFactoryBean ajax user dbcp response resultNum up selected seok close RealTimeIDCheck spring mailSender factory jsp requests text model rootValue RequestMethod item throws index m context WEB out database cnidsgem rootNode public id POST talent by defines expression true commons multipartResolver input HTTP idTxt request com void SqlSessionTemplate value bean component mail new key xsd base emailSender idValue driverClassName destroy visible charset programming receive UTF enable driver configLocation nm onkeyup System BLUE mapping filter classpath scan HttpServletRequest
+int Random maximum Math ramdom range a Generate generate randomNum i nextInt double Expand uniformly stackoverflow over an com http new random questions to expand minimum numbers from n rn entire
+boolean Inp true nextLine Admin Scanner System input false out println h
+util Collection
+https RgHXj Jmenu BufferedWriter colorscripter R s com
+int BLUE class res y png radius eightcruz getContentPane extends add c JVM getCircleX CircleFrame public String this Graphics cloudinary static fillOval JLabel Custom FlowLayout true Serializable Override BoardCircle EXIT Container implements GUI super co setLayout ON void return https com new setSize gozwpkq x paint wyfc Circle Test Color main CLOSE null v qtsm setColor args setDefaultCloseOperation setTitle g getCircleY setLocation JFrame setVisible upload image Class
+Object docs http se IllegalMonitorStateException api html oracle lang synchronized monitor wait release com
+int class generated a Scanner stub method out String factor else public in if static TODO print nextInt println void return import new num main exam sc Auto n args util System
+Synchronized Block
+int B new vs test arraycopy A System
+call class a extends threadA public ThreadB implements super Runnable void new runnable with start threadB ThreadA Started run Code Thread
+Intent UI class MainActivity layout schemas utf protected xmlns AfterActivity V tools content jjj top setContentView marginBottom button background main activity parent TextView Android width xml textview res pic onCreate extends imageview auto Button height ScrollView drawable ConstraintLayout R orientation intent super view AppCompatActivity http dp Studio version pt center zzz LinearLayout Bundle imageView startActivity encoding setOnClickListener srcCompat getApplicationContext textSize android Nullable after ffff match marginTop wrap apk C ctrl vertical app Override View btn text savedInstanceState context public id ImageView onClick Btn constraint com void Activity new findViewById gravity support OnClickListener contentDescription
+https UML png res abstract eightcruz mchdciuowpxcehmifijk cloudinary v upload image com
+class generated java check dy size ArrayList else static sqrt Bounce InterruptedException awt getGraphics remove x Exception getActionCommand start main South WindowDestroyer Auto f runable Unknown private util lang threadList run setVisible width int Math newRadOfBallOne interrupt distanceXPrime extends exit stub String Button for height addWindowListener tan white if i move subtractedRadOfBall ballTwo super distanceY Start Panel deprecation sleep return ball k radian Dimension d getSize dx get false windowClosing draw ballOne elementData indexOf ActionEvent Ball WindowAdapter addActionListener while y at sin what black distancePrime method rad c this dispose in listener splitTwo fillOval title TODO XSIZE double implements BounceThread println catch Frame import event collide try canvas s p newRadOfBallTwo setColor args ActionListener g thread ArrayIndexOutOfBoundsException math WindowEvent YSIZE X Source cos addedRadOfBall m add Graphics out box public SuppressWarnings boolean distance split true Close distanceYPrime e void distanceX new PI setSize Canvas Color evt balist n l isInterrupted currentThread Center System actionPerformed Thread
+
+Static
+int class setLocationCells miss String SimpleDotComTestDrive for out public locations if locationCells static locs guess hit kill parseInt SimpleDotCom println checkYourself return void new stringGuess main break dot args cell userGuess length result numOfHits Integer System
+KeyEvent class generated InterruptedException static getScaledInstance setOpaque back sound x Exception start main CLOSE null getID Auto clip run ENTER setVisible int getAudioInputStream originImg extends stub String paintComponent block obj if open getKeyCode EXIT super sleep changedImg ON AudioInputStream stream false exists MykeyListener setTitle ActionEvent jpg throw keyPressed getWidth while y Nba a red JPanel Image method this SCALE TODO images setContentPane file getSource println catch AudioSystem repaint File printStackTrace drawImage try paint Clip setColor args setDefaultCloseOperation g getClip getImage Graphics out public true ImageIcon Draw e void originIcon new setSize Icon wav Color addKeyListener drawLine Object SMOOTH imgPath KeyAdapter Free System JFrame actionPerformed Thread VK
+url jwt ex
+class extends add String public enumeration static print j super Enumeration LinkedHashSet void return value LoggerFactory key new lc Properties final keys main put debug LinkedProperties Object msg args getLogger Logger private Collections logback LoggerContext log getILoggerFactory StatusPrinter
+et id edittext integer R Integer EditText findViewById getText String string entry hello toString
+int if while num print count System countinue out println continue
+
+int ArrayIndexOutOfBoundsException class for public if i j cur return import new b answer solution ans Solution length util arr
+int t while class Main Scanner String for out in public if static printf i j nextInt void import new testcase main break sc n args util System
+u description pZjuL http stack SDK com JDK i enter x here jdk imgur jpg exe image windows
+int AWT be cannot Array String for in toString i ClassCastException new EventQueue L to Exception cast Object length lang thread
+html jsp
+n r char readLine read String
+ArrayUtils int Random class SOP String for out else public if static i nextInt sizeOfArray println ArrayUtilsTester return void import new random main args private mergeArrays length util arr System Arrays arrSum
+int xxlk while dis res y name ps rgi png eightcruz uykl bos eyha size bis c byte out else dos cloudinary send if Please elementAt i len FileInputStream AClient msgClient Y pln tlnem equals option println h BufferedInputStream com http File new writeUTF fos write s uk FileOutputStream filePath break ncde v the f EOFException BufferedOutputStream sendFile length data flush close readUTF read System fis AServer upload image
+int getWidth t MyDrawPanel class y SpeedListener hei xDirection public wid frame if TimerListener DELAY implements getHeight getSource e void repaint event fastButton x slowButton Timer setDelay yDirection private drawPanel ActionListener ActionEvent JFrame actionPerformed
+int class out String for public abc if static i j CodeRunner println void main break args System label undefined
+name type datasource db context method Oracle database DataSource DAO oracle eclipse jdbc oracleDB string env lookup comp developer tomcat g
+int ArrayIndexOutOfBoundsException myY png res y class gqtn hveip eightcruz Scanner problem c String for out public cloudinary in if M static i myX j nextInt K visited println com void import http N new k x testcase main tdg C v mhd sc vfo args lang util arr System flaxegryhrvowm count package baekjun DFS upload image
+jsp ajax URL RS JAX
+UI jsp hover class bootstrap size pointer CSS div html focus bottom h css cursor HTML margin tag font nbsp color footer B style JSP left px header float ex
+str abc new String string
+Empty String null
+might case class be should Handler public Message sm if static switch mDriver void This handleMessage new occur x habdler final leaks cnt break setCursorVisible msg when handler or arg Override setCursorShift
+t out printed this know if i println catch e return finally try Exception get don something failure will System success
+mapper extends String else public Optional Function if requireNonNull T apply toUpperCase super ofNullable Objects return value of isPresent map s U os empty
+android adjustViewBounds true Glide layout parent content match height width wrap
+myName x charAt domanokz String
+value reference call by
+class CENTER BorderLayout sp JPanel tab JTable extends JTabbedPane add getContentPane String public IllegalArgumentException static title true j JScrollPane super EXIT two table void setVisible import jt ON new awt setSize swing x Test main one CLOSE JTabbedPaneTest args TOP Tab setDefaultCloseOperation data Jtab JFrame package addTab pratice
+int class HashMap name TreeMap comareTo out String public this gs compareTo o score SortedSet tMap values implements GameScore println return value key new map Value Object private System Override comparator Comparable
+class a String out public static A implements println void code new b Hd interface main B args test System
+j log
+png res pau r eightcruz out String cloudinary edbtis printf dd com https format d x v n jppok cyp System upload image
+
+DecimalFormatter format n new df g DecimalFormat String
+int clsDerived class name extends String out public HelloJV static super Base println void value new main Derived args data System Called
+int i String strI
+db listview
+Extends class a LineRecordWriter be cannot Recompile files Error failed extends API WritableComparable for V Generics error Gradle Note Some Writable use Xlint task K super input deprecation override Generic compiler Studio Compilation with to details types see RecordWriter converted the output compileReleaseJavaWithJavac clsRecordWriter deprecated app or Execution Android incompatible Class
+View MyRaiseListFragment class setOnClickListener savedInstanceState listContainer fragment layout onActivityCreated extends Button inflate replace public in insertNestedFragment id LayoutInflater Nullable R rootView super onClick commit onCreateView return Fragment void InfoFragment new findViewById getChildFragmentManager false container infofragment v ViewGroup private Bundle myListButton getView myRaiseListFragment Override OnClickListener inflater beginTransaction
+IllegalArgumentException SecurityException NoSuchFieldException try IllegalAccessException someCode e catch
+http tryhelloworld lessons courses co kr
+abcdefgh ab ba
+
+void static DefineDemo class args out classGroup System main String GetDemo println public
+class Model model RequestMethod EventListener SQL listShow ValueEventListener child Iterable getReference method ArrayList getInstance Handler dataSnapshot for add public shows listener List Async showList getShowList addAttribute addValueEventListener j show list Override firebase onDataChange DatabaseError firebaseDatabase getTitle return void showService new children Autowired Slf onCancelled RestController info GET DataSnapshot FirebaseDatabase Method listner RequestMapping DatabaseReference private REST log getChildren getValue ShowService Service ref ShowViewController Show databaseError Firebase
+C h
+int workbench Connection png generated res r getMessage Error SQL eightcruz insert upload String out cloudinary forName block title TODO titleuseSSL PreparedStatement values SQLException println catch com table e https Driver varchar printStackTrace try create jdbc qlflfl false ozzny getConnection mysql null v DriverManager ClassNotFoundException ydgofprbxaenux into Auto con user pstmt executeUpdate setString System row prepareStatement localhost image Class
+https apps google developers JSP Google calendar API com
+static final public private
+Intent class check CheckBox Main layout Text aedit protected content setContentView button project NumberFormatException final main start game os activity linear TextView arr getText package bomb int term r onCreate extends String Button for i R super intent view example AppCompatActivity Pnum v LinearLayout Bundle setText result startActivity Set a setOnClickListener pedit getApplicationContext this toString android j catch import note ck try EditText p TextureView nfe GetText setHint length app Integer Override Penalty View ts matrix savedInstanceState word public id getStringExtra onClick CompoundButton parseInt addView com void Activity new num widget findViewById support n getIntent Spinner Attendee Anum OnClickListener
+POST PHP
+uwymepniljuyeokhg https cbp Product png res eightcruz p cloudinary qdin qydkdavkzq gy v toString println upload image com
+NUMBER VISIBLE PHONE GROUP ContactsContract HAS Contacts append String IN where
+hello str String h Class
+btn ededed regist res png image wezone eightcruz zone layout black colorPressed add upload height cloudinary id more white cx android drawable position label true jump down search icon content src wrap com Wezone Fragment https himjjzgditmtvutqk ccdkadmlr scale github dp marginBottom fab RelativeLayout to alignParentBottom center labels showAnimation animationDelayPerItem clans from colorRipple FloatingActionButton centerHorizontal v fvjteidg style colorNormal ffffff MenuButtonsStyleBlue MenuLabelsStyle right anim Center menu FloatingActionMenu up shadowColor fffff hideAnimation width xml
+API
+Cannot symbol find
+List Array
+View class Context MainActivity setOnClickListener item context ArrayList extends getApplicationContext public this RecyclerView memoItems id itemView MemoAdapter static title true ItemView mArrayList R list super textView view MemoItem mContext Activity new parentView findViewById ViewParent getParent Adapter private ViewHolder activity setClickable TextView parent setOnLongClickListener mactivity mMemoAdapter
+org C Python codepad
+NoClassDefFoundError
+C sizeof
+new pool JVM s String Pool string hello
+html chm x
+getJdbcTemplate WHERE type SQL USER FROM String id List AS ADMIN sql new admin TYPE query ID UNION as RowMapper user TABLE SELECT
+C ETX STX
+int str new API length E Integer arr size ArrayList Array String JVM
+
+int valueOf if i BigInteger isPrim sum add for
+Lineage android Pie Aosp Gpro s apk Rom v
+txt ArrayList
+label
+exception B getClass class a isAssignableFrom instanceof throw false null Class
+passbyvalue value http articles reference pass by htm dude com
+Path Modules Tomcat Web HTTP localhost
+StackOverflowError lang JVM
+int countStr jframe out String in toString print BufferedReader nextInt parseInt number write append n BufferedWriter log readLine newLine flush Integer read System count scan numberStr
+void int if static while args i out System main String println public
+
+int new i Integer String toString
+JMF
+str n abc repeat repeated abcabcabc equals String
+ios
+int lastIndex lastindex char length word charAt lastchar
+null
+
+https png res kbrpyzfkvyzg eightcruz cloudinary oemgdkx v upload image com
+int choice EF for else if D i A StringBuilder charAt CD buffer code E AAA C continue B F char length literalChar count flag
+n while
+Android MySQL DB
+MyApp has Unfortunately stopped
+int a char b c
+View Object android below Studio layout Android xml
+drawEnemy fillOval drawPlayer drawShot fillPolygon
+getProperty generated download IOException ArrayList add String c cmd block ProcessBuilder InterruptedException TODO pb ftpUtil directory file e catch ms valueOf File new printStackTrace try final start p null Process Auto f tmpdir io processBuilder waitFor System
+int allocate copyPixelsToBuffer getExtras size byte bytes intent getRowBytes getHeight e catch BufferUnderflowException new b try get bmp ByteBuffer length Bitmap data
+hw text res giqwzeaillacufbif Configuration eightcruz namespace cloudinary file com http v alt Bean beans jpg namespaces upload image
+int png res a eightcruz extends public cloudinary this ryznb A yqmdque com http Activity new mainActivity b emn v B activity char go float upload image Class
+int getScore while class name java setName Scanner size add Print String out sort FileNotFoundException this public for id setScore i score nextInt file println catch hasNext return void import setId e File new printStackTrace scanner try get Vector private next txt Score getId data util close read System getName vector
+
+List listTwo new newList JDK addAll ArrayList String listOne
+https gRTda jpeg DLafV kin JPEG type w net phinf pstatic
+Camel Apache
+getPath getCanonicalPath getAbsolutePath
+boolean getBoolean getString getInt SQLite
+static scanner Market length array index illegal
+new txt st StringTokenizer sentence
+static sender receive try
+factory mapper jsonString no class HashMap at type Source method String JsonNode not simple ITEM line readTree ITEMS constructor single com value Can of map databind column get jackson from maps Object BODY Jackson instantiate RESPONSE util lang fasterxml JsonMappingException
+int class at appleNum myMoney out FruitSalesMain String public APPLE in buyer money saleApple static V FruitBuyer price println III PRICE return void seller new num Exception main showBuyResult showSaleResult numOfApple args chapter lang initMembers thread System buyApple FruitSeller NoSuchMethodError
+
+int ArrayIndexOutOfBoundsException n harry name i print length out lang tom System String for dick
+php ButtonClick ImageView DB
+unsigned String hashcode int
+Intent Mail emailIntent new android ACTION API content SEND
+list T ArrayList
+int a db c out String public static hashcode Car println void new k d main C args Integer System
+date CCD yyyymmddHH a STORE WHERE and month TO miss dayAvg FROM for BETWEEN MERCH not BY TYP GRADE NO D M ORDER RATING DAY dayName dayNum sum AND ON SEQ b specified DTTM as is null valid MTR CHAR ORA GROUP round LEFT JOIN REVIEW DATE count SELECT
+int Object
+View int bulider class Toast MainActivity be setOnClickListener onCreate savedInstanceState listButton layout method extends protected String Button getApplicationContext public this anonymous id Builder i findeViewById R show super Onclick onClick DialogInterface must builder AppCompatActivity void setContentView new AlertDialog implement abstract alertDialog SHORT setItems create declared main makeText items from v private onclicklistener derived either Bundle activity setTitle or OnClick LENGTH Override dialogInterface OnClickListener
+int while class y Coderunner java cannot coordinates type insert Scanner method variable String for out else public in errors do if static error o i print nextint true j wrong println void board import of new location x your symbol main break continue args system next char util System scan find
+oncreate overload overwrite onCreate
+int obj class private stuffIWant IWasDesignedPoorly
+myproject Bootstrap getBookTitles Book stack NullPointerException Author at lang Exception thread getTitle main example trace in com
+An class MainClass a extends inheritance String out public been eats static A eat println sleep void Animal new created bird main output Dog sleeps args has animal dog System Bird
+timer Timer utility
+class interrupt extends public this if true super void isAlive new start false br null ParserThread thread run Override Thread
+int boolean
+xqtzvowafcq http tfnr text sts res png zoc eightcruz cloudinary v com upload image alt
+parameters private class cpp public c h
+Intent etTmp class Toast generated MainActivity java CalcEngine display present Rsh Lsh layout txtTmp protected inflate else Log InterruptedException sqrt static finalize div nine line StringBuilder switch show two content function matches MenuItem Driver setContentView bStart Cursorhome FINISH so button Exception final start main as eight reset cnt null items Thread Auto os private editText activity handler dir util arg run TextView LENGTH parent SHORT package jnidriver numClick getText mConnectFlag xml int adds you gpiounexport getMenuInflater onOptionsItemSelected currentTimeMillis dou onCreate equal Handler JNIDriver extends String Button stub seven Open Message onReceive for delete block if initializetextlcd i open mThreadRun TIME stopped here clicks mMainActivity R super view ndu example sleep return val specify gpio it d unfortunately append false mainactivity long makeText v break min ComponentName setCursorVisible bar on Bundle setText mTranseThread result sendMessage multi will calc set native JNIListener et setCursorShift setCursorHome case while gpioexport a setOnClickListener DisplayClear Exp DisplayControl method getApplicationContext intervalTime shift Home toString this in INTERVAL android TODO automatically jni backPressedTime DisplayWrite Throwable braket mul Check setDisplayVisible implements equals catch cursor import str zero CursorControl printStackTrace Up try to Float state EditText is one The the dot myapp setListener msg CursorShift onResume test length app Inflate close Override View btn four text and three del bEnd gpiosetdir savedInstanceState item throws add five loadLibrary public handle AndroidManifest id gpiogetval hbe boolean true len tempTime Menu onBackPressed mDriver input clearDisplay onClick e com void handleMessage calen detect TranseThread six Activity new onPause onCreateOptionsMenu num obtain widget Handle control findViewById parseFloat action enable has Failed when or menu System end OnClickListener
+while enter Yes Scanner out String else in public exception if static print true nextInt println catch e void new finally scanner num try Exception main break null args close Integer System No
+int gender class name Structure object method ManList bst String attribute public this TreeSet compareTo Data Custom Treeset implements compare return Man Iterator remove instance unique private manName custom Comparable getName Class
+https Apache next res gswcorvqywgl png JSP eightcruz djqais v eclipse apache com upload image cloudinary
+int temp nextToken case token class while stck a nextLine item Double peek Postfix Scanner StringTokenizer postFix ArrayList add String for out else public in if static postfix i print op true T switch stringStack join equals double e countTokens catch return void import top PIS stack PIE new GStack try parseDouble st NumberFormatException generic Evaluation s false main break null push IntoPost Object n args private myfirst DoubleStack pop util result close System package
+https png res i d edccu krxcijwuj eightcruz cloudinary v upload image com
+Fsite Fmybook class type site Fenglish String out english public do Frequest static D Hello A println request catch mybook https void docs url Dprivate getBytes new try E World Exception URL main Fdocs UTF mywebsite F args Fmywebsite StringUTF ASCII System
+network
+json JSON URL Groovy
+common webdata jsp INF png js test data images jpg WEB upload fonts
+a ArrayList protected String for Inteager Log FileInputStream doInBackground params e catch d fos try Stirng Exception AsyncTask FileOutputStream null test fis
+int pointJ Math class while y check dy Scanner col String for out else public in pointI blank boolean if static candy i print true j nextInt ranNum println void import new random scanNum x array dx main false slash cnt args length TF util Candy System row package star scan
+JNI apis ImageMagick JAI media
+error class on path found application
+int case default while class generated y Main Scanner stub method out String ops public in if static TODO print true op nextInt switch charAt println void import new x main s break null z Auto args next char util System package
+int value call by
+min if Harry new x add invite ArrayList String v Tony
+localhost value RequestMapping ModelAndView ModelMap service test serviceName map web String webService PathVariable public
+clearCache SqlSession dataSource class name parameterType annotation BooksTest READ manager Setting static books Data logger springframework constructor proxy isolation BooksDao url target Transactional book Mysql Exception final main mysql sf password private Isolation INTO REQUIRED log testInsertTransaction arg ClassRunner ref xml image Repository png res datasource addBook sqlSessionFactory namespace String username commit mybatis sql Spring jdbcapi booksDao DriverManagerDataSource jdbc booksMapper sqlSession v DB maven F getLogger net vo Resource upload bookTitle INF mapperLocations Layer COMMITTED eightcruz insert method VALUES cloudinary Books locations DriverSpy timeout title rollbackFor driven ygt property implements file price Persistence src save session https W transaction code RunWith org transactionManager Test config SqlSessionFactoryBean propagation test app addBooks Override ex spring fxiallkfcuzoueml Propagation booksDaoImpl Mapper throws context mappers WEB public JUnit id true SQLException com SpringJUnit SqlSessionTemplate value bean webapp void LoggerFactory new JDK Autowired driverClassName tx destroy INSERT Logger configLocation BooksDaoImpl DataSourceTransactionManager ContextConfiguration classpath
+choice Scanner logged else do static logoff sevpf cid number of ID logging main Lab sc f login next empty sid Quit find image int png Computer res exit String for digit not if declaration i nextInt Id MENU None status Stations break v machines into varaible hslwfzdz computer upload asking while equalsIgnoreCase eightcruz off lid in cloudinary Simulate lab print station uid println https cpdsw to is from the args taking user MAIN Search chid out public any User Enter input com void new STATUS l system LAB System
+l new o a r char w d b String string e h
+import util ArrayList
+listView Intent MainActivity DATABASE Database protected ASC inflate else Log searchUser Runnable setCancelable NAME MenuItem Confirm DROP main put newVersion COLUMN used onActivityResult int setIconifiedByDefault getSimpleName setOnCloseListener sql table format d column getWritableDatabase makeText w CREATE sqLiteDatabase case ContentValues onQueryTextSubmit PRIMARY android ORDER implements cursor aUserName try to bindView created EditText aContext the Modify but userName dialog throws id we CursorAdapter setMessage User outside onClick SQLException PersonDatabaseHelper LIKE void Activity showResults getColumnIndexOrThrow findViewById RESULT EXISTS btnAdd onQueryTextChange tv oldVersion onUpgrade goes tvUserName DATA cracking named search modify content under tables communicate byID Exception as dbtenc private CRUD SQLiteOpenHelper util run tvUserTel ENTER getText retView you startActivityForResult need extends world String edit position i TEXT getColumnIndex INTEGER example schema return KEY version TEL first configuration on adapters setOnItemLongClickListener onClose a db OnMenuItemClickListener newView wrapper setOnQueryTextListener nUserTel OnItemLongClickListener catch our EditUser is openHelper Override execSQL getColumnName View ListView drop TAG insertData avoid aUserTel newText related com DatabaseHelper helper with OK DBAdapter that where Create alert n take getContext EnterDataActivity switch textViewUserTel setContentView your moveToFirst final null OnCloseListener parent operation setOnMenuItemClickListener onCreate SQL Handler getInt BY if here rawQuery getString R IF super are it Cursor using false long v deleted setText setTitle ad views faild insert getExtras FROM c this toString AdapterView Added post Table databaseHelper import code anyone query ViewGroup listview change beginning app time be onMenuItemClick inputText update context database which contentValues errors boolean setNegativeButton tel moveToLast pin getAllData e actually new info searchValue Input Recently data operations onClickEnterData OnClickListener Builder class Context name Toast java onItemClick layout SearchView static setOnItemClickListener changeCursor setting Cancel list show DialogInterface getItemId latestUserName deleteAlert resultCode required ID CODE os requestCode TextView LENGTH SHORT package selectedUserTel PopupMenu clicked getMenuInflater SQLiteDatabase USER for delete tell buildSQL view textViewUserName editAlert look AlertDialog mCursor create hood SEARCH popup break each Bundle setPositiveButton how will SELECT perform previous searchData in LayoutInflater editUserName editUserTel REQUEST nUser want OnItemClickListener then setAdapter DatabaseOpenHelper selectedUserName UserName from means user latestUserTel TABLE and VERSION item savedInstanceState sqlite OnQueryTextListener public upgrade getItemAtPosition widget getMenu userTel tag customAdapter when setView menu onItemLongClick inflater
+int nextToken while throws StringTokenizer IOException String out tokens usuario public if nDatos static i hasMoreTokens equals println countTokens void str WORKING new strDatos main password aArguments datos System Jorman
+return sb new a c b StringBuilder append String public toString
+generated r getDocument String public insertUpdate block split TODO JTextArea docStr textAreaDoc e catch void printStackTrace Document try DocumentEvent null Auto n getStartPosition BadLocationException getOffset getText getEndPosition
+
+int return dst Random static new i remove rnd length array nextInt list count ListInsertDeletetCount dat for public
+
+encoding drawerlayout png res a image th yhjrj item eightcruz checkableBehavior hvyikcmkd schemas utf checkable recommend zweb xmlns ic kind cloudinary id send slideshow android group drawable title nav true setting tools icon manage single com handdrip http vtc navigationview version apk null v camera information zw share w gallery diifo store menu upload xml
+Log code Icing android google googlequicksearchbox IcingConnection Could Error E connect to search com e Search not
+
+
+value map key
+String CharSequence
+native
+int Random while world String out public toString if static i true StringBuilder nextInt ran println return randomString new k append break sb char System hello
+class generated InputStreamReader throws IOException stub method String public in Exam static BufferedReader TODO void import new Buffer main br Auto args io System
+int temp class res png Number eightcruz Scanner exit String out for else in public cloudinary if static o i print j nextInt Result println com void import http new scanner b BubbleSort inputNumber main break Sorting v Complete Input xdeumtyuzdslzjgv args Bubble length util close System bubbleArray upload image
+non static private
+void static class TestProgram i args new true while j out Integer System main String println public
+Sql png res bcl name eightcruz ArrayList String tcgbhnl public cloudinary List list eggq com https new rer selectArticle SchoolDTO v upload image
+View class Toast setOnClickListener cannot onCreate savedInstanceState layout Date extends protected String Button variable public this id if android error R show super implements view onClick LONG example com AppCompatActivity void import myevent format setContentView new Studio findviewbyid widget txtbirthdate st EditText findViewById main s symbol makeText v support getBaseContext os showbio showComponet Bundle activity setText MyEvent app util LENGTH Override package Android OnClickListener find
+int class a out String public static A Box println void new b main args System vol mybox width
+ForExample void int static class args num length out Done arr System main String for cnt println public
+exe class
+int class name total Scanner String height for out public in if static i print minindex nextInt println com void import new scanner lec maxindex main null min args io StreamCorruptedException length util ArrayEx System Stack package ex max
+value m key
+int while allocate nextLine Source WRITE Scanner READ IOException rc out in Path if print open true StandardOpenOption wc src catch e dst File new printStackTrace num try clear write flip get Copy break sc Name buff FileChannel ByteBuffer System Paths read
+int call class a size String out c public this toString List if by static reference list Node input println void return value valueOf newNode LinkedList new num d node b addFirst main Linked null HelloWorld tail Object args head next private memory test data System linked
+int while nextLine throws oldStr Scanner exit out String public in not exist if Usage static targetFile input equals PrintWriter println replaceAll hasNext void File new SourceFile try same Exception main s newStr break exists output args txt length ReplaceText does count System arr
+List Dog Animal Cat animals list extends doSomething
+WebContent yyyyMMddHHmmss class getInstance getSwVersion else do myFilePath KtpOta testModel getPttNumber tools lineNumber function var url fileName phoneModel isFile button ID Exception null getNetworkName f lg testIMEI log getPhoneModel AbsolPath ktpOTA req workspace getNetworkType script mkdirs form body type myPath androidVersion synchronized myurl extends String getLineNumber getAbsolutePath TrmnlinfoColctDao TrmnlinfoColctVo if D i O FileWriter fw return val format http aa I write networkName GET append false DB getExtra dao exists sb head console getPhoneSerial onclick vo Bid substring success while api getPhoneUptime Struts method getAndroidVersion Time toString prepare ActionSupportEx o snkorea post getTime implements file StringBuffer println save catch File printStackTrace javascript try state testSerial Preparable ajax test networkType testid close testfunction SimpleDateFormat phoneSerial text Mypath throws swVersion extra out public id trmnlInfoColctToFile by phoneUptime pttNumber lastIndexOf true Calendar imei input xxxxx getImei e h void lte new TrmnlinfoColctAction eclipse alert n data flush ing System localhost
+Integer
+t while png res eightcruz yltpig object ArrayList Showinfo size upload else cloudinary loop if bivqyfcn i true list notworking com number https get break null continue v scan image
+pbhowto name topic attribute id VBScript XPath rgagnon url http PowerBuilder taxi version jshowto car URL vbshowto htm howto pbhowtonew www Javascript XML xml
+list jsp DB
+int void import class new a scanner c b in util nextInt Scanner System example ex public this
+txt
+int class add ArrayList public if true equals return value new x false basket contains thing another Thing or
+
+Intent call t class Toast marker name showAlertDialog CalloutBalloonButtonType getRoad KaKaoInterface layout putExtra size ArrayList setLat protected Info inflate else setCategory Builder requestFeature Log MarkerInfoCall addr Data toast show setLng KakaoAK BEHIND setMapCenterPoint setTag url onPOIItemSelected setContentView getCategory clear onFailure setMapPoint mki mapViewContainer final null removePOIItem private activity MarkerType ColorDrawable Retrofit setLink LENGTH TextView SHORT getText SpringFromGround Gravity setShowAnimationType find int setSelectedMarkerType kkkk FLAG addConverterFactory kakaorepo isSuccessful body POIItemEventListener BluePin onCreate centpoint setPhone lat extends API isEmpty Button for String MapPoint if mapPOIItem i ACTION R TITLE super intent view Web TRANSPARENT place builder AppCompatActivity getTag Place AlertDialog onResponse d link create map setAddress false get makeText build v getPlace mapView meta Response setPOIItemEventListener Bundle setText result onCalloutBalloonOfPOIItemTouched addPOIItem startActivity setGravity documents getY DIM MapView setOnClickListener setBackgroundDrawable Callback RedPin Window this YellowPin LayoutInflater NO KaKaoAK phone title Throwable implements kakao https code service clearFlags Uri parse query MapPOIItem DIAL EditText sssssss ShowAnimationType Call setItemName mapPointWithGeoCoord baseUrl ViewGroup MarkerInfo length response count BOTTOM Override LayoutParams lng GsonConverterFactory No getPhone View btn markerlist enqueue setShowCalloutBalloonOnTouch savedInstanceState dialog setName Error KaKaoRepo markerinfo add getX getWindow getLayoutInflater public FEATURE id getTotal address tagindex tel WindowManager true dapi dddddd input onClick addView e com void valueOf mapPoint new onDraggablePOIItemMoved tag info findViewById Color getItemName retrofit road setView calloutBalloonButtonType setMarkerType OnClickListener inflater
+new Long util getTime Date oldDate
+
+thir class Context OVERLOADING MainActivity layout size ArrayList onCreateViewHolder protected notifyItemRangeInserted inflate else childText Log static RED HEADER idx postDelayed setLayoutManager switch Runnable bottom CHILD top setContentView OverLoading final holder main YELLOW null xffFDB viewArr headerText f private activity recyclerView run parent getItemCount int LAYOUT type onCreate getSystemService getItemViewType child extends Handler pos String for more List obj if xffeb position i R super AppCompatActivity return ExitContainer false get color break v userlist sec fir Bundle setText indexOf BLACK case a img c this VISIBLE LayoutInflater Child More title xff setVisibility setAdapter b Item isSPECIAL classBar team ViewGroup RecycleAdt ViewHolder length GREEN viewType header CYAN rating Override float View onBindViewHolder text delbar savedInstanceState item LinearLayoutManager m add init public iscreated RecyclerView id boolean true MORE recyclerview e h void new cut setBackgroundColor Color findViewById INFLATER VERTICAL Adapter SERVICE HeaderContainer where Object Header headerItem childColor data BLUE getContext inflater
+String
+int void if static bin String num print args System main out public
+int Math class dbm ibeacon cannot rssi protected calculateAccuracy else ratio accuracy if gettxPower static we txpowerlevel pow double txpower return txPower determine scanresult gettxPowerlevel
+return https int png res paq ccalvmjxij eightcruz hash cloudinary sauso HASHCODE hashCode v String upload image com
+int ticketReservation date name total trim String Passing jlbName frame if double parseInt jBook getSource jlbTotal e price number valueOf new jr jlbPrice jtfNoOfTicket Integer getText jlbDateProduce time
+Intent class setIcon layout schemas utf inflate xmlns solid show list DialogInterface content dlg background null foodID parent width xml image int Sagin png res pos height drawable R orientation intent http AlertDialog version center color v OnClickListener LinearLayout shape setTitle setPositiveButton startActivity upload encoding y setOnClickListener setImageResource eightcruz this cloudinary android match food wrap https apk eqhtf ffffff vertical sub ac Override View dialog item which public id Alertdialog setNegativeButton layer ImageView onClick com void foodName zlswxgxgnboq bag Activity new dlgView findViewById gravity setView small custom Builder
+abstract interface
+Field WHERE mytable LIKE SQL Format something FROM String string xml SELECT
+int a Scanner aplle String confirm c for in public else out boolean if static apple i true j toCharArray println void fail new plepa b main false break sc tmp args next char length chk arr System
+strings pool String EB D hashcode A co https AC new StringPool questions E s string B EC kr
+Syntax int new multD x
+int jvm byte short
+Panel
+NullPointerException instanceof false SomeClass null
+int each boundary doSomethingWith i s String for stringArray
+Parent Child
+int final arr
+
+OOP Interface
+
+https n taq res zqfe EL eightcruz ovqjvapmm cloudinary jpg v upload image com
+UserImpl Interface i User IUser UserInterface Class
+JButton client class generated ipAdress getContentPane setUpNetworking ev setEditable setWrapStyleWord static writer ScrollPaneConstants Runnable setLineWrap awt x incoming ipEdit SCROLLBAR Exception main start null Auto SendButtonListener private requestFocus util run getText setVisible getInputStream BorderLayout stub String JTextArea JTextField swing setHorizontalScrollBarPolicy false append outgoing qScroller setText readLine ActionEvent IncomingReader net addActionListener while CENTER NEVER JPanel IOException method frame TODO message readerThread JScrollPane implements PrintWriter ipButton println streamReader catch import event printStackTrace try args ip SendButtonListenerforIP ActionListener io go ex setVerticalScrollBarPolicy InputStreamReader sendButton add out public mainPanel BufferedReader true ALWAYS void getOutputStream new setSize reader HORIZONTAL VERTICAL Socket sock n SimpleChatClient flush System read JFrame actionPerformed Thread
+return JNI cpp jni lib for native
+class operating ArrayList semantics SECONDS reference static InterruptedException task useful Runnable Executors same final main newFixedThreadPool as IntelliJ different next lock int locking synchronized String for List i Reports are hasNext ListIterator objects Collections statements on set shutdown while a have ExecutorService Such submit may println catch printStackTrace try to listIterator TimeUnit is the args Integer threads MainClass be synchronizedList object add out lst public unlikely expression even e non void new exr itr awaitTermination where field when System
+int https png res eightcruz double cloudinary float false v dspplzpzkrurwoltrfqq upload image com
+
+int intArray references object String c out toString Bob primitives println of new strArray b array I output John Mary System
+fileNameWithOutExt test fileNameWithExt xml
+HashMap threaded Hashtable non
+HttpSession URL jsessionid
+int Set set HashMap size ArrayList String for List i listOfNames mainMap return Map new put each different getSet result something time differentKeyName
+void temp args class new alpha alpa main String C public
+id ajax
+of code kb bytes is limit main method exceeding String The the
+StringBuilder String
+Intent ListViewAdapter class Toast MainActivity total HttpURLConnection layout problem ArrayList protected sticky else UnsupportedEncodingException es forName Log AllocSpace cracking ListViewItem isCancelled line StringBuilder show list task url answer final mysql null adding Charset private openStream editText phpMyadmin LENGTH SHORT KB encode adapter getInputStream int LOS startActivityForResult inputted URLEncoder extends String for Button free addingActivity if i doInBackground R super intent execute GC example Suspending return asynctask getTask http onPostExecute I AsyncTask get append makeText break objects refresh v freed sb w readLine rkdanswns MB while a setOnClickListener mean problems getDatas problemeditor db Void IOException art this mUrlConnection all params catch paused dataToList W MalformedURLException setAdapter printStackTrace try setDoInput URL s br is answers listview length esy took Override threads View openConnection InputStreamReader item word update add concurrent Datas public wordList sweep ee BufferedReader split true onClick addTask e request wju void BufferedInputStream com mark ms new php InputStream Background info reader UTF addProblem data cancel reShow OnClickListener
+intelliJ gradle
+
+process UI jar
+hover Content class name getLoggerMgr java jstl gnbvenupfr dataList ArrayList getInstance language div lib setCharacterEncoding DOCTYPE list function content var url contentType Exception items null Name DETAIL EUC prefix log pageEncoding util www getParameter script find image body th tr border res uri type PUBLIC listnum String if error D i td here jquery DAO addParam table http TR caption core d selectList GET equiv color v DB dao min meta head console DTD onclick w loose jpg upload eightcruz rio db tango TxConfig c cloudinary gs title getThreadContextLogger html ORG COMMON NM src catch println sun https import W code EN org try config C style ajax done dodgerblue SLF jsp Detail text getDAO cd taglib item index out database KR POST id LIST HOME e request com css CD Transitional HTML constitutor fail new Type charset page UTF alert n js DAOFactory dtd npe data nm System Insert forEach
+Little PC TCP Mat OpenCv Endian Wifi byte like image buffed
+data arraylist synchronized add
+int Math random x System out println
+array
+class a be should String public in boolean subgoal error subname subcode named gradenum subbook file subpurpose profname subject subinformation Command declared is subtype undefined failed
+filewriter bufferedreader
+select Elements jsp class text api openapi throws Jsoup jsoup String for out Open public c whois doc static kisa titles open Whois e println void import Api url http key org Document query regName b connect Exception main get getParser iP Element args ip txt or adminEmail nodes System kr
+Boolean
+CD static new AE s BC final AB VALUES String public
+setVelocity addNote Change disable else of sc lang playNote image int png res Save fkrhp for volume not if i fixed score prevOctave channel NOTE an ON return sncnadvsf readVolume first false v octave CHANGE notes does active upload Set a have saveNote eightcruz If velocity off cloudinary Send message activeNote OFF all CONTROL current https still note then prevVelocity to state is the change drum music but setOctave stop ArrayIndexOutOfBoundsException and be midi pitch boolean sendMidi true ejsm Turn input abs com void random instrument readOctave also has Todo played setVolume
+int class a reflect Array clazz public error ARRAY T capacity import new E newInstance array generic final INITIAL creation private GenSet lang LENGTH Stack Class
+int Math png res LOOP eightcruz out for cloudinary i print j ELSE IF tggevl println com https N new ltjdkoqq array v METHODS fymw System upload image
+mapper HashMap name parameterType sysdate MemberMapper confirm else Log Controller list memberService function url contentType href Exception put null serialize INTO Service xml getName int form Parameters type memberInsertForm String if voteInsert MemberDTO nio insertSubmit dataType exec Null return val regdate ResponseBody json map GET false async v DB result application success SELECT failed Preparing insert method VALUES FROM c Member dto member println MAX Vote location b p memberInsert Updates RequestMapping ajax DEBUG VOTE RequestMethod throws Mapper NVL out public POST id insertVote reVal vTitle cache value Map new boot MEMBER charset vid UTF alert INSERT Object controller data System vContent
+t id abc Sounds message post pageInfo content example timeOfPost com likesCount http photo Doe Can it cool pagePic to wait see posts picOfPersonWhoPosted actor nameOfPersonWhoPosted comments jpg pageName JSON Jane
+ajaxName mapper Content class name java jstl utf language getMovieFinder bootstrapcdn Controller appendTo search list DOCTYPE bottom function content var searchField top url genre attr contentType href Exception setDao endyear googleapis produces serialize private right prefix keyword pageEncoding px www script width image padding form png res tr uri PUBLIC type bootstrap String List if error click td jquery view dataType formId table return ModelAndView http TR scale ResponseBody k core movieFinder json link first equiv GET startyear v min each meta dao head viewport DTD w loose MovieVo result dl upload success decodeURIComponent stylesheet getMessage eightcruz img method grade c this cloudinary submit lab j html params plain src println catch u https sun W str EN org javascript try ObjectMapper HttpServletResponse jkhbhxevxk C dm device RequestMapping writeValueAsString ajax left response mav btn jsp text rel RequestMethod taglib item index m out public POST maxcdn tb e Transitional com css void HTML printWrite new Autowired Type charset page UTF libs alert MovieFinderController js dtd nation initial data controller MovieDao System
+return int boolean if lh isBalanced right true left rh root Node false height null else public
+int can class a and be extends publicInt protected out own statement public its in member specifies by addition A subclass only protectedInt println void import of remember new modifier with defaultInt as that C accessed The the privateInt private another go within System package
+JButton TypePanel potato setBorder Price class size SOUTH bulgogi static TP GridLayout awt addItemListener x order final JRadioButton main Small private Large setVisible createTitledBorder TpP BorderFactory int Medium BorderLayout extends ExtraPrice String SP if JTextField PO GUI ButtonGroup setLayout swing topping isSelected SizePrice setText setTitle ActionEvent addActionListener a CENTER JPanel SizePanel this WP message implements Size ItemListener import EAST WEST TextField event combo peperoni b s cheese args greenpeper WelcomePanel ActionListener itemStateChanged Override TotalPrice PizzaOrder ToppingPanel m add public NORTH JLabel true void JCheckBox new setSize Type bacon ItemEvent l J cancel JFrame actionPerformed
+return value some class private new test getArr getter Test arr String public
+int JOptionPane class showMessageDialog Array exit String for public static i void import new swing x main null output n practice args length ArrayTest System package
+View int detailUserActivity pref Context PRIVATE item sp onItemClick myid context getInt USER setIntPreferences String public sharedpreferences this id AdapterView edit getIntPreferences static position i getColumnIndex commit view ListViewActivity MODE void cursor databaseHelper value PreferencesUtil return Activity key getItemAtPosition SharedPreferences your ID Editor Cursor editor final long p COLUMN putInt getSharedPreferences log myId TABLE prefs myIntValue otherClass parent Override
+u https png res Navigator nzqgtkfwkhmjot b eightcruz ohp wuinz iyaug cloudinary soz ql v upload image com
+return int if static private primitive char length ktr maxValue for param chars max
+void Son printMe me static class new doIt Dad dad out son System extends protected String println public
+int Random t date while HashMap TreeMap FileReader iterator String for out public if static kv i BufferedReader split Capstone line rand nextInt kimsuhee file src println hasNext void entrySet capstonedata value Map File new key Iterator iteratorKey try map Entry toArray main get put reader C null continue tm contains keyValue args Users txt next splitedStr length readLine keySet close System workspace
+entrySet Map Iterator paramMap while next it getKey iterator question Entry pairs questionAnswers hasNext
+jsp window secondPage context GoJSSturdy out String forward obj open print gmba request com https getRequestDispatcher github null n ajax response RequestDispatcher getParameter System dispatcher
+Char return typeis case static a enum zA char MyType getMyType keyword Type switch Z String public not
+https ovioo z unsatisfiedLinkError res hmhegvpc png excrption eightcruz Suspended v com kfs upload image cloudinary
+int abc new i d Calendar s Integer parseInt String
+ByteArrayOutputStream class java describeContents bos readException size byte IPC Proxy loop reference static dest PID rrt final main dispatchMessage null handleCallback Method Charset os flags lang run awesomegate EXCEPTION int readByteArray oos PerformClick AIDL Static reflect Handler String nio view Parcel internal return getBytes ActivityThread CREATOR source on Stub createFromParcel virtual Creator a at method MethodAndArgsCaller Thir Application this writeObject android implements file photo service File writeByteArray b to newArray toByteArray FATAL Methods ObjectOutputStream MembershipSupport length app View IMembership NullPointerException membership writeToParcel object public parcel invoke nullpointer pointer Constructor ZygoteInit onClick FileByteParcel nextpage com void writeInt new Parcelable readInt Attempt charset Process support Looper data Native performClick
+
+goto
+Maven maven jar
+console Console try s readLine System String out null println co
+
+B vs arraycopy A System
+https cnmqspvjmfnz png res bufferedreader eeua eightcruz fv v com ex upload image cloudinary
+jar war
+Map a javascript b data list object c
+return void getSpeed speed Log TAG if setSpeed location d Location onLocationChanged hasSpeed float gps LocationManager public this
+void args main String public
+Double
+NaN a Number double Not
+resolver argument conversion service
+int lottoNum set lottoNums class lotto Lotto Scanner Array ArrayList add sort String for out public in toString List static gameCnt i print nextInt println void return import new main get sc Collections args lottoNumbers util Integer System Arrays shuffle
+Comparator int o abstract T compare public
+factory StandardContext class ServletContext name INF BeanCreationException Error sqlSessionFactory defined context root method WEB Cause BuilderException init ibatis in exception listener nested initialized error by ContextLoaderListener columnNumber springframework creating mybatis lineNumber sax listenerStart builder of bean event core org instance with to Exception web SAXParseException is mysql Caused Invocation configuration resource console beans document sending apache xml catalina spring failed
+http information asp www example com
+January Date
+version fragment sdk php
+http Doc google linktourl See URL com
+Reflection reflection
+t class res png image enter Error eightcruz yn Scanner Text String out else in public cloudinary mwtr vq if static print A please input JRE match println com void https import str isn new magic b main is null v the args nv next util close kk System upload hello
+int class lineShapeCoords String public not static noShapeCoords NoShape squareShapeCoords SShape tShapeCoords an void lShapeCoords Shape enclosing new zShapeCoords coords Test sShapeCoords s main etc is mirroredLShapeCoords args private shape ZShape
+
+https txtcpagma vwz t res tl toURI eightcruz v jpg getResource com upload image cloudinary
+format nested new UnknownClass tag formattedXml unformattedXml XML String hello
+format date new String currentTimeMillis HHmmss currenttimeMills now sdfNOW Date System yyyyMMdd final long SimpleDateFormat
+exe
+int return fightMath if P result two one else public
+https bg uwj res png pvla eightcruz rkphjitc cloudinary v upload image com
+getExternalStoragePublicDirectory api type download String manager setDestinationInExternalPublicDir public Environment if static android Data Custom getDirectory file request return File fileName exists DCIM dir custom mkdirs
+char string
+Map
+int text res png image qticc eightcruz synchronized IOException soc pos out byte for in socket public this cloudinary readPacket available nx asff mtxbbqwg println catch BufferedInputStream e return com OutputStream getBytes getOutputStream http InputStream new PacketHandler try write packet is null v zz alt Socket os f private BufferedOutputStream handler flush System read upload getInputStream
+call dataSource class name java annotation contextDestroyed methods AbstractRefreshableApplicationContext Root publishEvent getBeanFactory springframework LifecycleBase before of closeWebApplicationContext instance Exception thrown web start Closing sending Jun lang util run ref Worker xml runWorker lifecycle datasource invoking not multicasting startup closed core jdbc refresh AbstractApplicationContext on beans ApplicationEventMulticaster catalina LifecycleProcessor Tue StartChild at FutureTask root accessing WebApplicationContext listener initialized ContextLoaderListener driven property already event org transactionManager to destroyed from the IllegalStateException ApplicationListener events close ThreadPoolExecutor doClose hierarchy stop StandardContext listenerStop date INFO handling BeanFactory KST ContextLoader context concurrent id ContainerBase ApplicationContext XmlWebApplicationContext bean getLifecycleProcessor ContextClosedEvent tx destroyBeans getApplicationEventMulticaster support WARN via stopInternal or DataSourceTransactionManager apache Thread
+recyclerview json onClick
+
+yo hey m strs String blah
+E List Set
+ArrayList
+exception Thread delay unreported InterruptedException wait be x or lang to declared thrown caught sleep must
+
+getAttribute request jsp getParameter
+addActionListener JButton you no NoHandler class pressed ButtonTest index Yes extends getContentPane add String Button public static lab JLabel true yes implements GUI void setVisible import of event new buttons awt setSize swing x button Test main one South the jf West East evt args private North Click ActionListener setTitle setText result ActionEvent YesHandler JFrame actionPerformed No
+
+myfolder cp jar myClass myJar
+jsp
+int getProperty while InputStreamReader iterator bw utf numberString String for out replace public else boolean if i BufferedReader nextElement true FileInputStream props formatFile OutputStreamWriter Enumeration charAt changePath matches println hasMoreElements number new fileName resultCode try replaceFirst searchWord write keys s false br filePath FileOutputStream null intStart contains LinkedProperties Object BufferedWriter length readLine changeNumber newLine System plainText
+Tomcat class NoClassDefFoundError java Error Application IDE by Maven ApplicationContext initialize JDK Unable to main Caused VS VSC F lang hello
+int addActionListener windowActivated WindowEvent class generated a windowDeiconified add window extends method stub c Button for studyfree public windowClosed exit windowDeactivated pa String if this addWindowListener static TODO Gugudan true GridLayout Label implements super getSource Panel actionPerformed e Frame void windowIconified import str setLayout setVisible event new awt WindowListener setSize lb b Test main windowOpened South windowClosing Object Auto args btns North setText ActionListener gu ActionEvent arg System Override package
+IDE
+n
+HashMap map
+static class private PI Example final public
+
+
+CFStreamCreatePairWithSocketToHost can t handleEvent release didFinishLaunchingWithOptions inputStream bytes NSStream NSStreamEventHasSpaceAvailable scheduleInRunLoop switch launch initWithData CFReadStreamRef StringEncoding string handler NSDefaultRunLoopMode NSStreamEvent NSDictionary dataToSend default iPhone streamEvent uint BOOL NSUTF for sharedApplication CFStringRef if error NSRunLoop sharedInstance open theStream point alive CFWriteStreamRef forMode NSOutputStream return This stream complete write break customization Objective encountered NSStreamEventOpenCompleted maxLength dataWithBytes self application retain case encoding a makeKeyAndVisible setKeepAliveTimeout getBuffer outputStream NSUInteger after setDelegate UIApplication launchOptions occurred buffer NSStreamEventHasBytesAvailable alloc is C NSStreamEventErrorOccurred startTask test length NSString Override viewController rootViewController window NSInputStream YES NSStreamEventEndEncountered DABMultitaskingController nil writeStream void NULL currentRunLoop NSLog NSData staying readStream data read end
+int return concat if new a i char b length ac getChars count s String else public this
+syzygy baz bar d quux blurb junk qual c foo
+ArrayIndexOutOfBoundsException class at java nextLine Main Scanner String out in public static split input parseInt println void import new Exception main sc args util result Integer thread System lang
+NULL JSON Jackson
+Intent class Context HashMap MainActivity java name PERIOD scanning check layout ArrayList ble protected manager setDeviceAddress mode loop Builder Log reference static PackageManager requestLocationPermission now getDevice show list content of setContentView connected button fine enabled final main start put hasSystemFeature La null handleCallback dispatchMessage Method adding pm os used QdktdI ScanFilter private cb B settings handler activity log lang util run TextView package LE onScanResult adapter creat ScanCallback int BluetoothLeScanner SCAN permission addScanResult PerformClick textview reflect type startActivityForResult onCreate getSystemService le setScanMode Handler extends requestPermissions String Button for getAdapter not period List names if error mssl ACTION LOCATION scanfilter R Manifest super view MODE GUI example intent internal AppCompatActivity return supported ActivityThread status ENABLE d E isEnabled ScanSettings BLUETOOTH create MAC false get objects build mac v BT on Bundle setText result devices finish Mac power startscan set failed virtual Set results LOW a at setOnClickListener low FINE Callback method paired Central mhhX MethodAndArgsCaller getPackageManager in send gui android onScanFailed BluetoothManager message A Location REQUEST import code scanner location to scanned is C the Request device instances onResume myapplication BLEScanCallback app ttBjD Override identify flag View stop btn Scanning TAG NullPointerException text ADDR and startScan savedInstanceState ACCESS object add milliseconds invoke public Tag id FEATURE boolean Constructor Fine POWER Scan connection BluetoothDevice address ready true BluetoothAdapter lambda ZygoteInit filters onClick variables bluetooth e request com void callback Map new getAddress widget ScanResult with Attempt BLE findViewById SERVICE support enable requestEnableBLE Failed Looper data Native Lambda read tv filter performClick scan
+
+temp int call nthNode object size for public List by reference i Node input return value newNode new k node Linked Return head next
+t Do and type out for For loop if Breaks of Type types inner break condition the some something
+select doSomeThing Propagation insert READ database public queue readOnly notification message isolation void Transactional REPEATABLE false noti propagation Isolation REQUIRED Override
+listView class Context oldVersion MainActivity check DATABASE CheckBox onUpgrade Database layout ArrayList inflate static tfxnxrxtdthsubg setTag NAME order holder moveToNext null newVersion private SQLiteOpenHelper TextView parent hanstr adapter xml image int ListAdapter engText png LAYOUT res onCreate getSystemService SQLiteDatabase setChecked extends String isItemChecked not if position rawQuery getString getColumnIndex R super table return Cursor get false getWritableDatabase v DB convertView setText getActivity getView upload SELECT CREATE while tqei eightcruz db engstr checkBox cloudinary LayoutInflater hanText Nullable NonNull Fragment databaseHelper cursor https event setAdapter DataBaseHelper sentenceSql FrameLayout br from checkbox ViewGroup listview ViewHolder autoincrement onResume close Override resId execSQL ListView View btn drop del VERSION item context add public id by Custom tb sentence void com DatabaseHelper new key datas primary Checkbox findViewById INFLATER Adapter SERVICE StrData integer data custom getContext inflater
+you can cp class INF MainClass java Then have usr configured MANIFEST Main META for mf in bash Path bin mycomp JAR Similarly CLASSPATH HOME Manifest MyJar MF file would ExampleJob e com myproj JAVA it job jar Version with local your project main The the information test dir g jdk just run Class
+int f a b float
+static
+B views Q INF txt A webapps tomcat project ROOT robots WEB
+https png res emqlfpsnltjodgc eightcruz cloudinary workstation v autd upload image com
+select path java declare MOVIESCORE defaultParameterMap Cause replace Afterinsertmoviescore appServlet mid line setting function number of during put see round row PersistenceException trigger image parameters servlet res png SQL for not nested error score nextval moviescore sqlplus processing AFTERINSERTMOVIESCORE sql table it create v each into ORA on SQLSyntaxErrorException set upload jflobw failed execution while at eightcruz insert dbms root dmyunhfvxohnw in cloudinary exception begin may nvl after occurred https threw service Servlet org is from The Request output JAVAJO Error update m context database ibatis involve seq exceptions values com ms new with updating mutating avg where movie or controller cause apache end
+sqlite
+super
+addActionListener JButton can call png res and CENTER BorderLayout eightcruz groupRd JPanel layout size getContentPane add controls public feature greenBtn frame gui NORTH cloudinary o true FlowLayout colors apply show EXIT Container drawArea content ButtonGroup rmnbep setLayout void ON https actionListener com new setSelected setSize swing uylipr paint clear create to JRadioButton container area blackBtn panel CLOSE the v redBtn clearBtn draw magentaBtn DrawArea on setDefaultCloseOperation uat result close setResizable pane JFrame setVisible set upload image
+FileWriter e filename
+SQLite
+int call generated stub method String overflow for out public if error static i TODO println void return of stack recursive x main long Auto n args result System power end
+int class name and extends String lists public this in fee abc static error Car argument super bus actual formal void number differ new main args reason Solution length Bus
+rdrun started class setLogger java By Main ReportName Ant Vendor else Created cmd logger Period rptEndTime VersionPrinter gc project Sealed start Built null ReportFile Name reportSys run www reportName synchronized Date developers JobExecutionException String JVM Report if ilji getString Manifest rtf execute GroupName http Daily creater Version version rptFormat false IT JobWorker Microsystems Inc JobDataMap getJobDataMap Specification rptStartTime quartzscheduler api Sun PeriodicExporterJVM Quartz jhouse REPORT Check html Creater getTime equals START JobExecutionContext org job b URL March The RD Title getJobDetail SYS Apr ended JasperRunner INFO throws xls KST context public helpers reportFile ds void groupName new Apache dataMap pdf info Create quartz Implementation Class
+ref C
+OutputStream merge InputStream
+int class name String out Steve public this birthday static i println void number Janny new Background array main long Dave args private System
+int while class java be FileReader getMessage totalScores IOException dat FileNotFoundException String out in public not could exist static BufferedReader score foung parseInt file println catch e void import File new Could try dataFile Average main numScores null ScoreApplication err the args avgScore test io readLine or readFile close Integer does System read
+int be cannot safeLongToInt public its without IllegalArgumentException if static i changing return value new to cast long l throw
+int void static class args i j Test main String public
+return sample B private class mean title history A new data double super extends String null public this
+HotSpot
+int class a onCreate savedInstanceState item fragment layout LinearLayoutManager db ArrayList extends protected getApplicationContext Recycler c for public add RecyclerView List id OneFragment android drawable i true Menu setLayoutManager R super view recyclerview e MenuItem AppCompatActivity Fragment import void RecyclerAdapter url setContentView new setAdapter d widget b findViewById main layoutManager items v support setHasFixedSize os Bundle activity recyclerView app util Override
+return super method Override String public toString
+int Random class generated lotto Lotto stub method String out for param public else List boolean if static i TODO print true j nextInt println duplication void return import Map new random main false break Auto args lottoNumbers lottoArray lottoNumGenerator length util System package
+int wrapper null Integer
+name java check READ ArrayList forName list findEmployees AND NAME url Driver mysql null next empty ClassNotFoundException int INSENSITIVE getInt String not List if i here getString age IN sql return werstr TYPE jdbc Statement setAge ONLY CONCUR rs PERSON dept SELECT while root FROM Out SCROLL println want str setId createStatement to URL is the stmt con executeQuery ResultSet Connection WHERE Employee throws setName add out public id employee SQLException com LIKE qry new getConnection DriverManager setDept dep or general System localhost Class
+ok bSock do SECONDS logger Runnable MINUTES Executors ScheduledExecutorService timeOutService Exception syncSchedulingTime null Unknown B private sending log run nothing getInputStream tcp syncService synchronized Host String if Network servicePort aIn scheduleAtFixedRate return format finally d stream host false Stream IOException bOut Level this in send cleanUpSocketVariable A Check newSingleThreadScheduledExecutor catch OutputStream try to TimeUnit aOut s is bIn close Override IO Connection SEVERE out public boolean connection true e void getOutputStream UnknownHostException InputStream new aSock synchronize Port nbsp Socket sock Failed data read hostIp
+int class nextLine Scanner String numA out in public static nextInt println void import new main n args next util System Demo
+String Boolean
+int List Integer
+int parsing Naver subJsonObject marker api sLAT Double TO setMap Land ArrayList LNG API JSONObject LAT for DOUBLE toString String add i getString getJSONObject double LatLng getJSONArray Json e catch setPosition longitude new printStackTrace json try parseDouble naverMap JSONArray JSONException STRING Response sLNG length Marker result latitude jsonArray
+XML path jar Class
+url http soundcloud android questions in html to embed how player stackoverflow the com
+char Swing getPassword getText String
+
+class stck peek postFix StringTokenizer Scanner ArrayList else static switch stringStack top PIE NumberFormatException st Evaluation main null push private DoubleStack util image int token png res Postfix String for if i countTokens return parseDouble generic false break v IntoPost ihmnnc result upload temp case while a Double eightcruz in cloudinary print op double join equals catch https import wmzx GStack try s args itkjxy pop close nextToken NullPointerException nextLine item fix add out public nullpointerexception true T e com void PIS stack new Object n System
+SSH
+int class Scanner String out for else in public if static i score nextInt double println void import new num main avg args util System package prac scan hello
+Extends implements
+int x
+Cacheable value item filter size color null condition
+back
+int while class Math y a r sin FileReader atan type throws cos deg IOException Array lat m rad String c for public toString lon theta if static lines i BufferedReader split true print double input PrintWriter abs println void return import new PI radian degree d x b pw eclipse main br gps break null z output n args private txt traineroutput io readLine util close Arrays
+getMember class HashMap name java jstl preventDefault annotation ArrayList iptTags memberList home naver else memEmail Controller memNumber static div tags respBody logger springframework function content var backBtn memName top url attr children contentType remove button final web put produces MVC IMemberService null hfjdbjbuv login private document JSP prefix pageEncoding px util SUCCESS package script width image form mfycdawrsh th servlet tr Model res type uri png MemberManagerController String Mybatis height for List if click Handles memPoint RequestBody dataType getMemPass inject table hidden val bind http return memberDetailInfo memberDetail ResponseBody core pjw json false memBirth GET v insertMember Inject each memPass on getLogger tiles result vo application success memberForm upload MemberVO eightcruz insert getMemberList bodyContainer method submitBtn c this cloudinary paramName title message j html insertForm post equals memberLogin HttpSession memberManager println session sun https import event service org margin slf ckuonqyvnwgqiqyvmkbv br the RequestMapping style sessionMember ajax memJob createMember left btn jsp requests text model RequestMethod taglib placeholder index getMemebr out public id memNickname POST memberVO addAttribute ready commons true input javax memAddr request com h value Map LoggerFactory new primary control info ui charset page UTF paramValue load alert Object ServiceResult setAttribute inpTag Logger memId data System apache stereotype localhost
+boolean JTable
+cafe tomcat bootstrap apache mysql
+JButton class name getContentPane JFrame SOUTH setEditable static GridLayout awt workTime x NumberFormatException main CLOSE Paycalculate getText setVisible package int BorderLayout uperPane extends String if overSalary JTextArea JTextField super EXIT setLayout return ON work swing overTime false setText result ActionEvent addActionListener sal CENTER JPanel c double printing Container println catch import event b try Salary output args ActionListener setDefaultCloseOperation Integer time taxCal pay add out public NORTH JLabel true parseInt e void new setSize n l underPane System totalSalary actionPerformed
+case pwC Toast a MainActivity checkBox String else toString this id edit boolean if R switch show matches ff PWc SHORT pw Color is makeText break v z Age Pattern setTextColor getId LENGTH pwChar getText parseColor
+filelist files img ArrayList String asList H M file e new Collections imgList txt jpg randomized fileList Arrays shuffle
+super why
+int generated Scanner stub method String out for else public in if static i TODO A hex intput nextInt charAt println void str new scanner x remainder main Object Auto args private char count System scan
+vscode no extension Runner itemName explorer explore Visual Ex Example com https of marketplace value code vsc visualstudio Studio jar with array Test exampletest items VS reduce vs Junit test empty runner initial junit Code
+int return List Object toIntArray new ret i length Integer list toArray size get for
+C final
+int void Roll Random private class new Dice topFace C myRand public
+API StringUtil
+https sf dcb res y nyxgbhvlepltb png x rand eightcruz v com upload image cloudinary
+tcp while dis res png kb ey eightcruz bis ja dos cloudinary len nat sj com BufferedInputStream https new x write v ny ip data gtrprx read udp upload image
+if a isEven true mod false else
+driver linkText li a test click href findElement By jdk Selenium span
+Integer Long
+int List n new x Integer toArray ArrayList size
+UI launch FXML ui start main fx
+jsp android studio mysql DB
+String
+
+Override
+InputStream io convertStreamToString s String p is public
+int new num numlist arraylist arrayList
+https toBinaryString png res k hbiztyogfjh eightcruz cloudinary tv v ppr upload image com
+Builder builder
+int body ResizeFrame name ppt scrolling db img height else id white if position i click onLoad ready html resources jquery function BUTTON slide src com top http pre code value target attr relative DIV background FORM min iframe style head next js document PNG left px NeBoard No JPG script width image disabled
+char
+JSP DB
+tommrrow getFcstTime fcst parser t client class java setFcstDate size dclodnquksx WnUiRJydu serviceKey else listJSON getFcstDate static calfcst setR line jsonParser switch fcstDate list setBaseTime fcstValue url x array ForecastSpaceData Exception final category QWNkj items null Iwv pty openStream dail util VOl getSky kr image int CA jsonObj body png okhttp KmuN kma type r currentTimeMillis newsky res Date String for H obj OF if bf D i R ParseException execute itmes PTY return format http jsonarray tDJj json setT SKY get fcstTime setPop GregorianCalendar YD build break getT v Response setBaseDate readLine result net ZA dl upload MntKdvnmJ case while getPop api y getMessage POP eightcruz IOException yyyyMMdd this toString simple cloudinary concat GrergorianCalendar URLstr j DAY getTime equals urlStr println newCall catch https import MalformedURLException setTime service printStackTrace org SD try parse MONTH URL OkHttpClient Request io DzQw pop response go oWXciQgyFgC JSON time SimpleDateFormat daily yL sky text date InputStreamReader item dypbvbtx add setSky JSONObject out baseTime public getPty BufferedReader Calendar getBaseTime T nx setPty e h request void com listJson new baseDate base getBaseDate setFcstTime JSONArray ny waxVR JSONParser getR getdaily System SecndSrtpdFrcstInfoService Builder
+
+int work t MyEnum EnumValue enum x Doesn enumValue public
+tbname List INSERT STS INTO VALUES insert mybatis v Insert VO
+Froyo JIT
+int class three extends method String out public static super two println void new main one args mSuper sub System
+int temp folder TAG Images date Do while taken DISPLAY sd add String EXTERNAL Selection Bucket Ordering toString getCount id Which Log if android do i Dispalyname getString Media all getColumnIndex images cur values rows endwith NAME CONTENT return arguments none ListingImages bucketColumn str new d Uri URI query ID moveToFirst Cursor to dateColumn bucket MediaStore TAKEN with moveToNext null the field projection columns managedQuery Get BUCKET store DATE count something
+int args printf print cout scanf System cin out C println
+model RequestMethod throws index IOException method String public mvc request value Map parameter ThreadLocal GET doSomething RequestMapping Object controller HttpServletRequest
+int class Array String for out else public if static i A hex CodeRunner println void of new E array main C F args char length result System end binary
+php javascript html css
+select viewPager MaterialSearchView layout searchView coordinatorLayout bottom content Toolbar attr shadow navShdow background selectedBackgroundVisible viewpager recyclerView parent MaterialSearchViewStyle miguelcatalan image width titleTextColor xml Light png res height popupTheme dwpuduzforxvizd white drawable nav ahbottomnavigation CoordinatorLayout mainActivity below false color v tabLayout qz AHBottomNavigation cardView upload eightcruz dimen cloudinary android colorPrimary design CustomViewPager materialsearchview match wrap ActionBar https ThemeOverlay jiwon actionBarSize FrameLayout theme toolbar style app manual View aurelhubert AppBarLayout item toolBar id true Custom above e com widget appBarLayout tekken alignParentBottom support AppCompat filter
+body Bad PUBLIC c out IETF upstream Gateway title server html received DOCTYPE proxy an h AMI HTML EN AWS br p null The from head DTD response catalina invalid
+strict delay jsp carousel jQuery item window fadeOut bootstrap home height slow use Carousel Height html resources function Preloder var slideHeight css video remove inner container preloader load resize Slider script
+date new deprecated Calendar Date
+void f second first String both
+void static args out System main String aaa println public
+protected default public private
+exampleString String example InputStream
+xsi schemaLocation encoding class INF at ClassPathXmlApplicationContext type cannot be files throws BeansException META refers KnightMain context resolved SlayDragonQuest String Knight xmlns public this id static knights line indirectly springframework referenced constructor quest knight missing schema void import spring Multiple embarkOnQuest http new It org bean xsd required version instance to Exception main is markers getBean The from support the UTF BraveKnight args beans w close www arg XMLSchema ref package xml sia
+View int btn stop class MainActivity setOnClickListener onCreate savedInstanceState Hynn layout extends protected Button public this Dk androidx mp if android play appcompat R super onClick view example com AppCompatActivity void import playing setContentView new widget raw create testmusic main start null media v songs os private Bundle activity length MediaPlayer app Phs Override package OnClickListener
+int gson number List Child class type json Parent contents extends String height width
+GoogleApiClient Games new addApi API gac build Builder this
+int guestdiscount class y workerdiscount xmas String out for public static printf double discountprice today costs void return askFloat dollar student it discountreal guests instance Duplicate Test main is the isxmas askInt n f args workers nit dishes much Terminal System how studentdiscount
+getter setter
+overflow stack error
+br
+been has deprecated URLEncoder lang net warning String encode deprecation in
+getStackTrace String
+int Math new k random while print S arr System s out for
+int clss class setData Scanner String manager for out in public static i nextInt println void import gradeHeights new k array main args ragged ManagerHeight length util System scan
+png res r eightcruz Scanner rncqzf sazb lquhrl cloudinary com https yuk dln scanner iwapm lhuiwhxffut v emt iwuqyx rtjes w g ucwqxfg axdu upload image
+static
+
+HashSet Set
+int strings class Do cba a alphabetical bca should size acb String for isEmpty else public sort bac HW You abc if printPermutations static by not i edit populated list input charAt permutation anything println this return void import of substring new below b in out comment order s main p the permutations unique private args prefix length util result System cab Arrays
+MediaType servlet class name xx Produces String public Path member memberTest MemberController Jersey url pattern GET test APPLICATION jersey mapping JSON
+int nextToken at Calc StringTokenizer NoSuchElementException stringtokenizer out for in if i print op line j parseInt println sentence new k st Exception main cnt n practice length util Integer thread System prac
+
+int while class openConnection getMessage sd HttpURLConnection root String c byte public setDoOutput in Environment Log downloads android true len DownloadFile downloader getExternalStorageDirectory Downloader e catch com void u import buffer File InputStream fileName new d try connect Exception write URL fileURL GET FileOutputStream myapp os f io sdcard util close net setRequestMethod read mnt package getInputStream
+a out String IdentityHashCode public static o true hashCode println void new b identityHashCode s main false Integr n args Integer arr System
+if VALUE a enum useEnums ENUM equals SOME SomeEnum public
+share SMS
+Name FullName class type Type namespace C
+jsp
+int NULL readMessage if i split array word String for null
+Syntax int Loop if n printf i label d j Label System out for goto continue
+outline class name java utf dropdown language else div search popper content ul toggler target contentType href button light null bg lg pageEncoding script width form no body type bootstrap userID auto String if toggle labelledby nav jquery icon return scale shrink navbar link expand get DB min meta head viewport active label success a stylesheet getWriter aria method userRegister collapse inline submit title html my PrintWriter session println src import location to span userLogout device li user io response close getAttribute Search btn jsp text rel item placeholder index fit id sm brand input css userLogin doctype control Popper charset page UserDAO action UTF alert js initial data custom menu mr
+int OnSeekBarChangeListener progress class textview seekBar MainActivity onCreate savedInstanceState onStopTrackingTouch layout extends protected setOnSeekBarChangeListener public id boolean static R colors StringBuilder textView super seekbarval onStartTrackingTouch getProgress AppCompatActivity void getChildAt seekBarVal setContentView new paint ImageButton final findViewById main drawing append SeekBar paintLayout private LinearLayout drawView currPaint Bundle activity onProgressChanged fromUser setText TextView Override width SingleTouchView
+select t class enter Scanner else static mid Data MyProgram search switch list inside found findKey number of specific enters printCount your main nInvalid Quit readFile int needed you default high String Selection CS for if Please i nextInt would an hasNext comparisons Total Keep false break ie tEnter outputString txt many how temp case while a cannot low IOException in Found print file reading println until Prompt Finds File to Prints is the args user close compareCount throws variable out like public boolean true outside option non void new key base were n selection Reads data menu System end scan
+Set Object a array util Array asList Arrays
+class name scoreA finished Scanner Game else static scoreB setNameA of Exercise x main sc game B private standard util winner int Jung Date attribute String They if score getScoreB nextInt are return setNameB ProgrammingProject Ho GetField while who setScoreA this Choi in print A getNameA nameA nameB winning equals match println import setScoreB is team the args Finishings io time Loop recognizing Author and nextLine getScoreA out public won setter getNameB Enter Draw even ObjectInputStream void BasketballGame new getter Input has System
+format value f double bit Integer unsigned String
+int t while class model name throws col JTable String public id Boolean true getString Table userSelect SQLException UserList return getColumnClass new connect nickname false DefaultTableModel Object getValueAt getClass next addRow pwd data header close contents FALSE level set Class
+Comparator class RandomName item Database Date object ArrayList sort arrayList public boolean compareTo compare before return new CustomComparator Object Collections getStartDay getStartDate
+float double Float Double
+can terminated Server client class nWaiting sys generated java Try again else loop sockets full static receiveString server times OCCURRED Runnable function Result number of writeBytes connected Exception main start Program null access busy resource Auto private ZERO second sendString Cannot serverSocket run getInetAddress calculating operation getInputStream max int permission maximum th clients extends stub FileNotFoundException String for exit digit if i open FileWriter Maximum are an Client denied return supported INPUT ServerSocket serverinfo write make first terminate break dataString indexOf readLine msgToServer result net DataOutputStream substring while clientSocket permitted equalsIgnoreCase cal IOException method socket this in getHostName op TODO print double implements equals file users src save println catch import already recv File printStackTrace try inFromServer to msgToClient accept s is from tries msg args information Waiting user io length divided response close thread Integer count threads Override ex No Connection be InputStreamReader serverSock throws Wrong trim dat out public SuppressWarnings by BufferedReader expression true Close inFromClient writing input parseInt Success Invalid e void Max getOutputStream new calculate ERROR info dataFile later UTF Socket Input n acceptSocket userInput when too data DENIED or System IP Thread nServer
+Server client class java size TouchMove InetSocketAddress byte else Wait SurFaceTest Log bytes InterruptedException addr static server received Runnable SocketException newBytes sendIdPacket setReuseAddress x portArray waitPacket ID array order final start null Complete userid private handler ByteBuffer util serverSocket run port package setUser int waitClientData getHostAddress byteToInt addrArray setData juho getInt String ServerUserUDP for Message obj if getByName i servSocket nio getData clntUserAddr Surface sleep return d ENDIAN getDataT false get putInt Addr DatagramPacket net isConnect sendMessage sendBuffer recvString while jyj waiting allocate what IOException myAddr in toString send BIG ByteOrder tempBuffer IntToByte clntUserPort println catch wrap import recvPort byteMode onTouchMessage DHSserver printStackTrace InetAddress try to ByteToInt byteData buff msg test recvPacket io length Top thread Integer count Override getPort Arrays jun ServerOn be recvBuffer SIZE throws add out Receive public SendMessage boolean true DatagramSocket receivePacket pingTestBuffer e void new getAddress num arraycopy info ClientInfo setBroadcast ClientData juntest receiveSocket receive clientInfo clntAddr From clntPort getLength integer System Mode IP Thread PORT
+loop do return Object if whatever someList ex list object throw Or for null
+post recyclerview AsyncTask json
+JDK JRE
+clock class method String in public static Hello non void new Clock main access field args Cannot sayTime package hello
+int a n
+class cannot throws again extends String public please constructor new try Exception symbol Foo MyException bar lang throw find
+listView Intent class Toast name MainActivity java tvUserName DATA layout onItemClick SearchView listViewActivity protected recentList inflate else Log static EnterDataActivity cracking setOnItemClickListener searchUser changeCursor recentDate search switch list show Cancel now modify DialogInterface setQueryHint getItemId setCancelable Runnable latestUserName NAME MenuItem dd deleteAlert Confirm setContentView Clicked resultCode CODE ID final null firstViewActivity COLUMN os private activity OnCloseListener requestCode lang util run TextView tvUserTel ENTER LENGTH SHORT parent setOnMenuItemClickListener getText onActivityResult adapter package int selectedUserTel PopupMenu groupproj setIconifiedByDefault getMenuInflater startActivityForResult currentTimeMillis onCreate Date getSimpleName extends USER getInt String Handler recentListView strCurDate setOnCloseListener edit delete if position getString getColumnIndex R super view example editAlert return format AlertDialog d create Cursor TEL first MM false makeText long popup break userlist OnClickListener Bundle setText setTitle ad setPositiveButton setOnItemLongClickListener latestUserINfo onClose case getExtras onQueryTextSubmit OnMenuItemClickListener this toString getCount AdapterView LayoutInflater editUserName editUserTel android post updateUser implements setOnQueryTextListener ListViewActivity REQUEST OnItemLongClickListener nUser databaseHelper cursor OnItemClickListener import setAdapter query yyyy Item to EditText selectedUserName EditUser from listview user latestUserTel Modify TABLE length app Override userName SimpleDateFormat ListView View TAG NullPointerException text date onMenuItemClick insertData savedInstanceState item dialog OnQueryTextListener which public id boolean setNegativeButton tel setMessage moveToLast User pin getAllData onClick newText com void DatabaseHelper Activity new getItemAtPosition showResults widget getMenu userTel OK tag getColumnIndexOrThrow customAdapter DBAdapter findViewById listAdapter RESULT SimpleCursorAdapter alert n setView btnAdd data onQueryTextChange menu CurDateFormat System tv onClickEnterData onItemLongClick Builder inflater
+class name java size utf getInstance language else userEmail div setCharacterEncoding setProperty contentType members href required clear ID Exception web null userNumber login next pstmt pageEncoding getParameter setString script find form FIND getUserName history type izone String if MemberDAO getString sql return finally email DB dao useBean rs prepareStatement SELECT MemberVO method FROM submit member findid post html property println catch import printStackTrace location conn javascript try findId br p user go close executeQuery Override userName jsp text model WHERE and placeholder throws out public id input e request com ds value asd charset page getConnection action UTF alert controller System getUserEmail
+needed you png res and be loaded have configured eightcruz not could cloudinary namle if Please catalog proxy com http xce your network that access The v ensure tjobwgom upload image
+continue
+https png res server nvthxhsdrkftj eightcruz otjtq cloudinary v upload image com
+int iPhone IPhone Scanner String out for else in if i print indexNumber show equals androidPhone println AndroidSmartPhone new scanner phoneName break next System count getName
+split StringTokenizer Scanner Split String
+a aA Zz A Aa zZ Z z
+int class name extends String out public this static Student Person age person println void number stu new student getage main args System package ex getName
+int byte
+getResource xml context static
+Synchronized
+int setIconTintColor Intent class marker PopupActivity setOnClickListener startActivityForResult name Double setMap putExtra size getApplicationContext String for public boolean address i phone clubname LatLng onClick intent orangemarker setTag NonNull setPosition overlay return getTag valueOf longitude bluemarker number new clublatitude Overlay tag naverMap get false clubmarker Marker latitude Integer Override clublongitude ClubMemberListActiivty OnClickListener
+
+C
+select BY COLUMN NAME DESC USER ORDER TABLE ID FROM sqlite sql SELECT
+Content client class TestApp t MainActivity layout addJavascriptInterface oncomplete protected naver daum else ELSE webview WebView Runnable bundle function url setContentView chrome mapjsapi final main web AndroidBridge setDomStorageEnabled private handler activity JavaScript arg run TextView setJavaScriptEnabled shouldOverrideUrlLoading script type onCreate extends Handler setJavaScriptCanOpenWindowsAutomatically String API if error SslWebViewConnect open daumcdn R prod super setWebChromeClient view userSelectedType setCacheMode AppCompatActivity return format http getSettings setAddress v CACHE WebSettings jibunAddress txt Bundle setText net WebChromeClient setWebViewClient proceed onReceivedSslError post html src https WebViewClient roadAddress header Override LOAD loadUrl text savedInstanceState window postcode init SslError public JavascriptInterface id boolean address NETWORK Postcode true webView com void new php SslErrorHandler Type findViewById charset SSL UTF load js data J
+int temp pass while class FileReader bufferedReader throws IOException ArrayList FileNotFoundException String public id if BufferedReader FileWriter equals return import File loginCheckAction new d br UserDAO null security BufferedWriter txt user io readLine util NoSuchAlgorithmException package
+int buffer OutputStream while InputStream new len out write read byte in
+class connectionMaker setPassword annotation singletons userDao do static springframework internalConfigurationAnnotationProcessor of main getBean password Refreshing f UserDaoTest getName ClassNotFoundException image png res prepareRefresh getPassword instantiating String startup sql testId http ecddf preInstantiateSingletons d frkh domain get AnnotationConfigApplicationContext v dao AbstractApplicationContext beans internalCommonAnnotationProcessor upload Tue eightcruz root ct c in cloudinary println import setId org b args internalAutowiredAnnotationProcessor user spring hierarchy factory upjxrhn date throws setName KST internalRequiredAnnotationProcessor context add out public DaoFactory User DefaultListableBeanFactory ApplicationContext SQLException com void UserDao Mar new Pre support TEST daoFactory getId System defining
+UPLOAD java annotation FILE ItemController full DispatcherServlet server springframework doFilter handleInternal HttpServlet NativeMethodAccessorImpl of invokeHandleMethod Exception cast web Method Status Unknown InvocableHandlerMethod OncePerRequestFilter RequestFacade tomcat lang util Tomcat servlet type reflect doDispatch CharacterEncodingFilter nested error invokeForRequest processing an mvc internal http it NestedServletException RequestMappingHandlerAdapter encountered logs catalina failed cannot root method multipart this in exception message processRequest MultipartHttpServletRequest fileUpload sun ClassCastException note service org to ServletInvocableHandlerMethod is from The the Request websocket report doService doFilterInternal prevented be Source AbstractHandlerMethodAdapter invoke handle description available WsFilter HTTP javax request doGet stack Apache ERROR FrameworkServlet ani that invokeAndHandle trace support fulfilling INSERT DelegatingMethodAccessorImpl connector controller cause Native filter apache
+no name Upload sp img size isEmpty byte String else param if imageout dest logger file thumb src getOriginalFilename return photo getBytes File new org d ImageUtill getSize info write filename start false get C put FileOutputStream resize n camera imgPath test Camera imgName data flush close jpg end IMG idCard upload getName
+JVM
+int class WHITE SIZE Main String for out public static print input BOARD e println void board import new project final main EMPRY null f args private util System package BLACK startGame Arrays
+int png res class a xnbyvsrloms zi eightcruz Scanner String for else public cloudinary in this if static postfix i Data Node week charAt lnp com void https import value stack new wzj hl Rightop wvl main null v sc push Lefttop hqdsyvdrcz args tree next Right Left char right length pop data util left jpg System Stack upload image
+int class Scanner out String for in public if static i j nextInt println void import new num x main cnt sc args test util System gugu
+JButton getSelectedRow JOptionPane class java display download GroupLayout layout addPreferredGap JTable getContentPane sort btnDelete do btnDeleteActionPerformed LayoutStyle static idx line setting invokeLater oracle constructor InstantiationException modify Runnable content javase of getColumnClass awt your logging TRAILING main CLOSE null see ClassNotFoundException private BASELINE jScrollPane log lang txtGallery setModel UIManager row Code util btnInsertActionPerformed getText run setVisible image form TableRowSorter lblOrder Generated int setHorizontalGroup setValueAt addGap png res Do default Java always Short tutorial mouseClicked lblTitle btnInsert extends String for MouseClicked not addGroup if sorting declaration here JTextField EXIT initialize feel getInstalledLookAndFeels lblMovie Delete table ON This return setLayout arguments http look swing DEFAULT createSequentialGroup addContainerGap UnsupportedLookAndFeelException false types break v getValueAt getLogger WindowConstants addMouseListener collapsed setText ActionEvent within IllegalAccessException upload setViewportView addActionListener MainFrame Set called txtMovie Form setLookAndFeel Update eightcruz stay method If unchecked c setVerticalGroup Level param this cloudinary getRowCount btnSortActionPerformed getColumnCount jTable btnSortMouseClicked toString in defaultstate For TODO j JScrollPane html End pcjk Table equals getClassName iCntRow catch https import MAX nbpqfufittn code event Alignment try editor Editor to createParallelGroup is pack from The the SE uiswing plaf columnIndex args LookAndFeelInfo LEADING NOT setDefaultCloseOperation ActionListener Integer ex VALUE and SEVERE lookandfeel SIZE handling add addComponent public introduced SuppressWarnings available by getName JLabel true Nimbus txtOrder variables javax com void PREFERRED lblGallery txtOrderActionPerformed new EventQueue Look with btnUpdate btnSort btnUpdateActionPerformed optional fold details MouseAdapter info DefaultTableModel Sorting command Create evt regenerated Object Logger MouseEvent initComponents WARNING desc ComponentPlacement RELATED Variables JFrame actionPerformed Insert Class
+int DOWN case KeyEvent KEYINPUT class S contentPane JPanel RIGHT reNew Cat Game add extends String out public D print JLabel JListener Mouse true keyCode getKeyCode A MyKeyListener switch super GridLayout EXIT UP setContentPane e setLayout void ON import keyPressed W event new N awt KeyListenerTest swing x setSize E addKeyListener CLOSE break addText CatDogMouse Dog KeyAdapter setDefaultCloseOperation requestFocus LEFT System JFrame setVisible VK
+data databases run zip
+int select passwd ResultSet Connection while uri check serverTimezone MemberList getInt String public cj id if UTC score disconnect getString PreparedStatement equals SQLException sql catch com e getPasswd return Driver printStackTrace finally conn try connect jdbc false jspdb mysql MVC null from where DB driver rs login next pstmt MemVO getId useSSL close setString executeQuery vo prepareStatement localhost
+int at java accountNumber nextLine Source forInputString out String in For if input parseInt println replaceAll x base NumberFormatException Exception main string sc Unknown rew n lang thread Integer System Project
+int class res a klakga png eightcruz add String public cloudinary boolean static az dd vy com void https new b pof main p v args Wuerfel ik w aw upload image
+Vector Buffer HashTable IP String TCP
+MySQL
+ObjectAid http class Diagram objectaid diagram www com Class
+default private public package protected
+int EntityManager class ENTITY a FACTORY If MANAGER Print manager String public id delete begin any if static there rollback Course Student roll Commit Close exceptions commit back are an Delete catch void transaction stu printStackTrace student finally remove try Exception createEntityManager getTransaction null the Create changes Get Begin close EntityTransaction ex find
+int Set next iterator util index Array get set
+int getAge major while class name a setName extends refer String invoking public this id error Student super constructor Person age explicitly void return nor to setAge private Cannot getName
+int a
+select outline class name java utf dropdown language forName div search setCharacterEncoding DOCTYPE popper list function content ul toggler target Driver frm story contentType href button light mysql null bg jyyoo lg document pstmt empty pageEncoding getParameter setString operation script width form no body tr type bootstrap auto dbURL String if toggle labelledby td nav getString jquery icon sql table hidden scale shrink finally navbar link jdbc center expand get DB min meta rs head on viewport onclick result active prepareStatement set label success se dbID a stylesheet getMessage aria root method userRegister collapse inline localhost submit title html PreparedStatement my post PrintWriter src catch println import updateOk location try javascript to dbPassword span userLogout from device con li test user io close executeQuery Search align btn ResultSet jsp Connection text rel Illegal item placeholder index update out fit id sm colspan boardList brand SQLException input javascipt css request com value userLogin control Popper charset page UserDAO getConnection action UTF DriverManager where js initial data custom menu System mr Timestamp Class
+static getLogger Logger private CopyUtil class xxx logger
+
+mysql db
+class java zip ArrayList else static DataFormatException function One prints font start main some private next Cannot util arg Python find int you range nFour need String for not if error probably here super nTwo hasNext return nFive finally symbol nThree false nSix TrueTypeFont Iteration throw self cannot iterator NoSuchElementException this print j implements exceeded println must sun import zero try python Test s the msg args Range Integer stop Simulates be Iterable out public boolean true variables void value Iterator new diff RangeIterator System
+js node
+lte g
+class consists ask Scanner static printf described line co leading of following spaces program your as main last some second util package kr int String for i hashcode O nextInt Subsequent look k below d first on comprises does a in print j sup follows import job to formatted shall numbers The the Question output args user Develop close ex and three part So should counter ending out like public input such void value Each new num pyramid that nbsp Your Input n integer System scan parts
+int class name nextLine Scanner out String height in public static Boolean address print true nextInt double age println void import new nextBoolean main weight sc nextDouble args next util J close System isSingle city
+class ch out String replace public toString Ch static StringBuilder println void Q new main args sb System package
+JButton class name java radius check Main SOUTH else COLORS mouseReleased static Controller Pin pins HIT fillHole green awt mousePressed x button final curPin main MVC isRowFull junkCode yellow pinCount private util setResizable setVisible int Random drawOval Model junkPins r BorderLayout isUpdate checkAnswer mouseClicked repaintPins extends exit String for getPoint addWindowListener white if i MouseListener Y nextInt view GUI setLayout return mouseExited Dimension swing false color v windowClosing addMouseListener isPlaying w setTitle ActionEvent WindowAdapter addActionListener getY y red paintPins JPanel black pico c this mouse fillOval pinsToRepaint j Check turn implements getSource LINE setPosition SCORE import repaint Frame event combination repaintPin paint p getColor setColor args ActionListener g length getRadius Override View Point WindowEvent blue model X pinsRepaint update m add getX Graphics fillRect public setRadius boolean Mastermind generator true pin javax e h void new setSize OPTIONS mouseEntered Color MouseEvent controller System actionPerformed
+
+em class LIMIT size ArrayList else div search ul AND DESC classification contentEquals href Exception getList null pageNumber next pstmt JSP getFoodTitle setString foodTitle image int medium pic getIngredients SQL getInt String for BY if recipeDivide i searchType getString return finally get break recipe rs likeCount jpg prepareStatement SELECT featured while a img FROM ORDER DatabaseUtil PreparedStatement images equals src catch recipeDAO MYSQL printStackTrace conn try section p span alt li CONCAT g header foodContent close executeQuery RecipeDAO ResultSet Connection WHERE recipeList recipeID col add public e h LIKE new tag getConnection getFoodContent ingredients small RecipeDTO
+View Intent Alarm stop RingId while Toast runOnUiThread textViewTime r setOnClickListener onCreate savedInstanceState ringing layout RingSet getApplicationContext protected inintent for Button String public id VISIBLE if android i setVisibility R monitor SystemClock textView super mediaPlayer Runnable show onClick sleep void return valueOf setContentView buttonDismiss new SHORT getIntExtra create findViewById start makeText is SetTime buttonSnooze getIntent Bundle activity setText MediaPlayer arg run TextView LENGTH Override Thread OnClickListener
+png res eightcruz jsoup cloudinary id zr html com http clmpvf v asset eb n data ebkfj upload image
+int class setFont maxY JPanel setBounds extends add ButtonMove sort height for public maxX if Monospaced static Font pan i JLabel true j setOpaque rank EXIT Arrays setLayout ON new BOLD lc lb arry tmep CLOSE null ox oy setText setDefaultCloseOperation setTitle length float count JFrame setVisible time width
+jsp body blue text display auto height id mid div include css table middle margin clear background center whole color page yellow quiz cell vertical left px width bot padding align
+int array
+jsp suffix Suffix html css
+t id abc Sounds message post pageInfo content example timeOfPost com likesCount http photo Doe Can it json cool pagePic to wait see posts picOfPersonWhoPosted actor nameOfPersonWhoPosted comments jpg pageName JSON Jane
+String list new ArrayList
+call Content class display XMLHttpRequest HttpURLConnection utf else setDoOutput static Ajax pValue line search dataset function var url contentType Exception searchPeriod onestop put null private kr getInputStream int YEAR type r Java wr CollegeSearch String if middleware error searchType Y OutputStreamWriter stringify dataType isOK getHttpHTML return val subject http status finally curriculumCollegeSubjectAssignInfoSearch json college write year semester sb refinementAndMajor readLine application success checked pusan while curriculumCollegeSubjectSearch what Accept pName toString returns er html println catch getResponseCode paramMap printStackTrace try setDoInput GUBUN URL br is C the CULTCD allocationOfPeople con ajax With curriculum fn HttpResult ac close setRequestMethod JSON openConnection Requested InputStreamReader X object JSONObject out CollegeAssignInfoSearch POST TERM BufferedReader true input HTTP e request getOutputStream new DEPTCD datas OK Type alert n getResponseMessage data flush menu System setRequestProperty
+int class res name getHostAddress eightcruz String out naver IP public for cloudinary getAllByName static addr getByName getHostName i getLocalHost gprakjdmillis println catch com void e import url https UnknownHostException printStackTrace InetAddress addrArr main null v getParser deuspb ip args txt length InetAddressTest net www System jpg package upload image
+int NullPointerException class while stck vStk opStk item Double peek size ArrayList add String postfixCalc for else public out if exp static i op print T j double priority expr void return top new d GStack Character main get null push Object args char instanceof pop result System
+int load SoundPool raw R context String for
+hover t class name radius display Arial size nicely div line solid list bottom radio content ul Two top One fff shadow transform so background font B FFF px width padding CC border type auto ease height for block D fades hidden Helvetica it webkit Three color on accordion label checked family serif overflow Make in sans A all match want transition cursor none margin AA to s C p checkbox the Title style li vertical rgba BB text out id pointer moz input Vertical h HTML nbsp weight We uppercase don disappear
+int while class Scanner String out else in public if static nextInt sum println void import new main n args Solution util close System max
+
+hello
+
+br final
+name Guava String guava wiki common Case UNDERSCORE UPPER StringsExplained com https CAMEL google github base CaseFormat Format UserName caseformat user LOWER userName
+int some jsp setAttribute class getAttributejsp getAttribute set request
+ListView Intent permission requires starting PerformClick act name at uri java startActivityForResult onItemClick setData trim readException dat String uses AbsListView exception AdapterView cmp by android PHONE tel phone ACTION ProcessRecord ActivityManagerProxy AlertController AndroidRuntime AlertParams pid intent onClick uid Parcel ActivityManagerNative posted com internal OutgoingCallBroadcaster new Activity ERROR d Uncaught Uri parse due widget execStartActivity to main exiting Permission from action Instrumentation PostDetail CALL uncaught SecurityException Denial os handler app lang thread run Finditnear startActivity performItemClick
+int class HashMap out String for public this static Student println void printKey new key student main put is args CHashMap keySet Integer System
+List Map value new HashMap key Integer list ArrayList MyMember keyid
+import a b as c from
+hashcode
+apache poi docx word
+
+C B A
+int jsp servlet class generated setStartPage type java throws object ArrayList PageInfo method stub startPage setMaxPage public ActionForward forward setListCount if setPath TODO endPage double Override svc implements execute parseInt javax MyObject pageInfo list request Action board import http return new listCount BoardListService Exception interface setPage boardListService getListCount HttpServletResponse page null action BoardBean BoardListAction Auto setAttribute qna setEndPage limit getArticleList response util Integer getParameter maxPage vo package articleList HttpServletRequest
+int nextToken case default while class a SUB java FileReader Calc throws StringTokenizer ArrayList exit FileNotFoundException String out for public if static i BufferedReader op print ADD line j FileWriter switch input parseInt e catch println void sentence import return new k try b DIV st Exception main reader break Process cnt null MUL Collections n args txt io readLine length util close Integer result System rd
+res java Error eightcruz thf zamiiox cloudinary could not Environment wuhjf open qoqkytbzhv chlobw lib Runtime com https C p v javasoft amd cfg Users currentvirson cth jvm jpg upload image
+select acc text name getElementByName a contentBuy joo selelctedIndex box this seq do smh id account title html onChange function option var price XXX value oms frm href writeDTO getM category alert document les getW or getSelectValue selected script form
+Connection SCOTT dbms db String thin database public handle exception TODO xe oracle e catch return url conn try Exception jdbc getConnection TIGER password pc DriverManager ip user scott
+
+listView Intent dbHelper class Context Toast DATA layout FragmentE inflate static setting switch show NAME myEmail resultCode CODE CustomAdapter moveToFirst final COLUMN toggleButton private activity requestCode onActivityResult LENGTH SHORT adapter EDIT int startActivityForResult onCreate extends USER String Button ToggleButton myRank if getString R super intent view return RANK mCursor Cursor TEL false makeText break v Bundle getActivity case quick setOnClickListener EMAIL getApplicationContext myAddr this LayoutInflater implements REQUEST Fragment mContext setAdapter ViewGroup editMyInfo onResume TABLE Override myTel View ListView ELEL ADDR onStart savedInstanceState add public onDestroyView id myName getAllData onClick onCreateView EditMyInfo void DatabaseHelper new OK getColumnIndexOrThrow findViewById container RESULT data getContext OnClickListener inflater
+factory static
+int Intent CheckGPS class text Toast MainActivity Secure onCreate savedInstanceState Settings startActivity layout SOURCE extends getApplicationContext protected String which public this boolean if android SETTINGS setNegativeButton i chkGpsService setMessage ACTION getString LOCATION R show gpsEnabled onClick intent DialogInterface super LONG matches void return Activity new AlertDialog setContentView create network nGPS CurrentLocatinActivity getContentResolver false gps main strong makeText GPS OnClickListener provider PROVIDERS Bundle activity setTitle setPositiveButton LENGTH Override ALLOWED dialogInterface Builder
+xfomkrmhmz scrolling recycler layout schemas utf mode xmlns fjxsi Data scaleType list inpn bottom content Toolbar marginLeft attr marginBottom background parallax string dlq scrollFlags right activity collapseMode parent TextView rview width xml image png res auto height Button edit List drawable orientation view example coordinator CoordinatorLayout http dp version kuka center color v LinearLayout bar txt centerCrop selfie ajsujr Contents coordinatorlayout CollapsingToolbarLayout upload appbar encoding eightcruz img black ic Coordinator cloudinary android colorPrimary darker design match src ActionBar wrap collasping marginTop horizontal ThemeOverlay https margin actionBarSize behavior theme apk recycle toolbar style vertical app View btn text AppBarLayout item tool Appbar id RecyclerView pin ImageView recyclerview exitUntilCollapsed com marginRight widget contentScrim har info gravity gray support AppCompat data
+jsp djkgld jstl gmail com
+int TargetList View select ListView Context LAYOUT Listview appListItem isChecked CheckBox getSystemService layout applabel size ArrayList checkBox setChecked pos for String else public context inflate id GONE VISIBLE if LayoutInflater isItemChecked i true setVisibility R ImageView Label equals setTag setImageDrawable Util catch e getTag return new printStackTrace appicon packagenames Icon try Checkbox PackageName mListData Exception holder final findViewById get false INFLATER null Adapter SERVICE convertView ViewGroup getStringArrayPref listview ViewHolder setText getView parent TextView Override inflater
+int class Scanner problem String out for public in static printf i hackkerrank nextInt println com void https challenges import new d x main formatting br s sc output n args next hackerrank Solution util www System
+http cy png res j eightcruz cloudinary v jhfziptewwxqtq upload image com
+void obj Object Nullable null foo
+
+void static class bar abstract foo
+register class Features Toggle fa dropdown vm div only sign ul toggler url target href button Dropdown Register bg lg login image navigation Pricing png res type bootstrap auto navbarDropdownMenuLink toggle i Navbar nav labelledby icon example Action http navbar link shxem haspopup xu expand false v err qvuodvx active label upload a eightcruz aria Home collapse cloudinary in PC CSS current https clxn vg span alt li user app navbarNavDropdown item controls pa id dark true Login fas brand resiger Another far e css com sr container action n data menu mr expanded
+
+c Sprintf sprintf printf
+http f tfnjprtq res png fh pw eightcruz uz db cloudinary v upload image com
+int class name Truck getSimpleName extends String out public suv static Car bus gas gasStation Suv println void truck new car Test main getClass args fill Bus System
+NullPointerException class FileNotFoundException out String public static true println catch e void try Exception main false null args instanceof WhatTheShoot System throw
+DB
+
+int Intent View class Toast MainActivity AppMain onCreate savedInstanceState WebActivity layout extends getApplicationContext actmode protected String naver public this shop if android themerite mWebView Unfortunately R super view WebView content com AppCompatActivity void import return goURL https Activity setContentView onWebClicked new widget main v support os getActmode private Bundle activity app webviewStart Override package startActivity myApp setActmode
+int i long j
+REGEX
+ui one ONE UI
+sample value RequestMapping POST adminMenu ResponseBody admin json RequestMethod list URL menu method
+can human class a reconstructed be extends written out for param public this not in resulting by Note DataInputStream writing fc e readable OutputStream target code new dataOutputStream Constructs link RequestStream stream using that is the output B on data DataOutputStream but form
+RecyclerView onClickListener onClick
+f api a d json b g c
+while class charts InputStreamReader trim String out euc public if static error BufferedReader BillboardMain line equals println catch com void https import url e new billboard try Exception URL s main reader null hot bufferedreader newUrls Parsing args openStream io readLine www net System Billboard package kr
+memPhone jsp type memType memNum enrollDate JSONObject memGender M memStatus ready A post Y memPoint ADMIN function var h val memName url nationCode HTML myTable admin noShow br DataTable JSONArray null MemSearchTable columns console document ajax StringData log memId ad data script success
+getDogs Dog dogs clonedList ArrayList
+int while class ele display insert Scanner problem out String public in if static print nextInt list Node com return https challenges void N new d node python start main br null sc args head next hackerrank Solution data close www System linked Class
+Byte AppMessage Serializable serializable byte
+Problematic Windows default Server client at ACCESS mixed c mode windows xc fatal Environment frame not been error by jni A oops Runtime pid Minidumps ffd HotSpot JRE are of VIOLATION core VM versions x b version compressed Bit to eclipse tid write enabled build C SE pc the amd dump has dll Failed on VCRUNTIME ac TM EXCEPTION detected
+Intent exifOrientation t exifDegree class path java Performance download layout DATA qualcomm protected ExifInterface setType else static createChooser lib switch PICK setContentView BitmapFactory resultCode degree CODE button moveToFirst Exception final MediaStore web Permission null bitmap provider private managedQuery activity requestCode ROTATE lang onActivityResult proj find ClassNotFoundException storage int image default Images startActivityForResult exifOrientationToDegrees onCreate setData extends FileNotFoundException Picture String if emulated ACTION getString Media getData R super intent denied AppCompatActivity return ORIENTATION E stream Cursor column break v review on Bundle imageView Bitmap jpg getWidth case BoostFramework qti contentUri IOException android DexPathList iv Matrix GALLERY src catch cursor NISI printStackTrace getAttributeInt Select URI try Uri to setImageBitmap receipt io imagePath ReviewActivity Override float Didn View TAG matrix SendPicture nativeLibraryDirectories savedInstanceState SelectGallery rotate index createBitmap EXTERNAL public id vendor true ImageView decodeFile onClick getHeight getRealPathFromURI e CONTENT com void new Unable exif postRotate OK NORMAL getColumnIndexOrThrow findViewById RESULT system getId data decode
+JButton class java setIcon Main setBorderPainted awt mousePressed x backButton Exception main CLOSE null game Unknown private setFocusPainted lang setResizable setVisible package Images png extends exit backimgaebasic backimage EXIT setLayout ON mouseExited swing HEIGH MouseMotionAdapter setContentAreaFilled false addMouseListener setTitle WIdTH at SCREEN Image in backimagebasic gui Musicgame import event setLocationRelativeTo screen setDefaultCloseOperation thread music getResource Override setUndecorated NullPointerException Source setBounds Graphics add init public JLabel true ImageIcon Graphic javax e void setBackground new setSize mouseEntered Color MouseAdapter MouseEvent System JFrame
+addActionListener JButton t class generated name KJW CENTER BorderLayout resultTextField JPanel setBounds extends add method String out stub else public if myName static MyFrame TODO JLabel true JTextField my getText EXIT implements START getSource actionPerformed e setLayout ON setBackground import LINE void println event new awt setSize swing x b MyListener final Color main panel CLOSE null ORANGE Auto f args private setText setDefaultCloseOperation setTitle Guess ActionListener ActionEventListener ActionEvent System JFrame setVisible label
+SoloThread new start s
+png res eightcruz shift cloudinary Atom html com https bphda v ctrl B run ncp script upload image qypasaezdi
+void int boolean if n static args case caes out else switch System main String println public
+import jar
+int Math class generated nextLine Lotto Scanner method stub String out for else public in if static i TODO print Y nextInt setMoney opnion println void import choose new EndLotto num random N ShowMoney main long break StartLotto sc mynumber Auto RandomNumber args private putMoney PutMoney util Money System
+
+listFiles int review boolean File trainingDir new i dir trainingData trDir reviews getAbsolutePath false String for success mkdir
+Element new array arraylist ArrayList
+volatile
+floating sectionID Static edition doc if books point html values currentSectionID com sun typesValues number docs http analysis with compared Floating jls second float
+text setOnClickListener layout buttonName WRAP Button height this id listener android drawable drawableLeft setLayoutParams R onClick view content buttonIdDoesntMatter addView wrap CONTENT new PARENT imageWillChange button findViewById ViewGroup LinearView LinearLayout setText FILL fill linear parent LayoutParams width xml
+reference static a TTT Cannot to R public make final method XML getText String string non the
+new FavoritesAdapter favoritesAdapter Test Class
+https edukfhbmzjc pom groupID Groupid res image eightcruz jpg v com cqpln e upload xml cloudinary
+JButton t class generated java Main getContentPane english ss static inside TaeJun list awt kor kf main setListData CLOSE null JMenu Auto private util setResizable getText setVisible mItem extends stub String createMenu englist JTextField EXIT eng setLayout ON JList swing setVisibleRowCount false get v setText setTitle ActionEvent setLocation addActionListener a setJMenuBar method c setFixedCellWidth rights TODO JScrollPane implements Container getSource import event tf JMenuBar JMenuItem Vector args test setDefaultCloseOperation ActionListener korea mb math All window insidebutton add reserved public JLabel true EnglishTest Enter input javax e void new setSize MyAction Copyright Color copy Kim setForeground menu BLUE JFrame actionPerformed korlist
+txt
+graphics android RRGGBB integer hex FF hexString Color String color
+setId Tourist t if tourists ArrayList String for null idForm
+html
+
+
+EXCEPTION
+char String StringTokenizer
+int String
+D c C
+int class a Scanner String out for public in HW if Ex static i print nextInt void import new b first main z zzz n args util System package max
+IP root TCP
+int temp nextToken case token class while stck a nextLine item Double peek Postfix Scanner StringTokenizer postFix ArrayList add String for out else public in if static postfix i print op true T switch stringStack join equals double e countTokens catch return void import top PIS stack PIE new GStack try parseDouble st NumberFormatException generic Evaluation s false main break null push IntoPost Object n args private myfirst DoubleStack pop util result close System package
+todo tomcat data eclipse apache database sql
+mqtt a c b
+
+int boolean y x result System false out println
+return Foo createFoo void B reference pass by new f A foo Code myFoo public
+https flqtvhlzpxpz jsp png res image imwhuoo eightcruz v com upload css cloudinary
+Yahoo GMail
+schemaLocation dataSource infrastructure annotation serviceCall UnsatisfiedDependencyException createBeanInstance reference DefaultMBeanServerInterceptor APR DispatcherServlet spylogdelegator PropertyBatchUpdateException NativeMethodAccessorImpl Transport ALL start main access password Dcom JSP tomcat Cannot arg ref xml TldScanner Tomcat doOperation datasource applyPropertyValues mbeans deployment nested endorsed processing sql http jdbc Connected w Contents net catalina AutowiredFieldElement INF mapperLocations initialization Djava TCP Property exception ContextLoaderListener jmx ephemeralDHKeySize configure creating property threw local to autowireConstructor Artifact the DependencyDescriptor SqlSessionFactoryBean See useSSL deployed spring manageApp factory coyote Djdk SEVERE StandardHost Error ContextLoader Catalina id pkgs defines JAR startInternal lambda values doPrivileged bean JAVA setPropertyValues CATALINA PropertyAccessException createStandardContext started finishBeanFactoryInitialization Server AbstractPropertyAccessor protocol ServletContext path Dcatalina home MethodInvocationException xmlns webresources StandardService addChild server LifecycleBase constructor during opens Exception mysql Method getBean sf classpath handler management log util run port ConnectionHandler resolveConstructorArguments resolveReference SecurityListener sqlSessionFactory defined JVM doCreateBean error exploded Unsatisfied Network juli nio through mybatis memberDAOImp NOTE schema internal populateBean doPrivilegedOperation core OS version Caches resolveDependency AbstractApplicationContext attempt encountered configureAndRefreshWebApplicationContext Jul Mac failed temp resolveValueIfNecessary a HostConfig root WebApplicationContext PrivilegedOperation provide argument mbeanserver file org properties config s is ssl MBeanServerAccessController transport corresponding deployDirectory StandardContext Connection IntelliJIdea mappers add modeler concurrent invoke interceptor UnicastServerRef connection HOME com OPTIONS war with driverClassName caffeine artifact Caused ConstructorResolver support security WARNING configLocation JavaVirtualMachines Native System StandardEngine scan clearCache MBeanFactory AutowiredAnnotationBeanPostProcessor spyLogDelegator Root TCPTransport ClassLoaderLogManager lib resolve VersionLoggerListener url dirs logging resource valid creation lang www Worker find Unnamed tcp servlet runWorker dispatch rmi being username UTC please resolveCandidate are listenerStart inject preInstantiateSingletons DriverManagerDataSource wait false sqlSession Library beans PropertyAccessExceptions Picked while NoClassDefFoundError usr method Home this jongwoonwon kill tls RMIConnectionImpl Corporation Cellar dependency ThreadPoolExecutor ajp remote BeanCreationException doResolveDependency RMI Mapper context createBean init jmxremote contextInitialized BASE doGetBean javax request SqlSessionTemplate Caffeine BeanDefinitionValueResolver value Apache jasper details AbstractBeanFactory field load Users DelegatingMethodAccessorImpl webapps library component Extensions xsi AbstractAutowireCapableBeanFactory class Context name java manager AbstractProtocol UNNAMED Dignore setting springframework JmxMBeanServer BaseModelMBean x instance web XMLSchema package libexec cancelling Java reflect for more startup Please DAO TLD jdbcapi refresh tmpdir hostname jdk getSingleton encoding at in DriverSpy AccessController sun utility InjectionMetadata Waiting io up DefaultSingletonBeanRegistry and initWebApplicationContext X lifecycleEvent INFO handleMessages AprLifecycleListener WEB Oracle expressed scanJars lazy by Gradle ContainerBase DefaultListableBeanFactory addChildInternal postProcessProperties UMASK JDK xsd base destroy UTF Dorg conf apache Thread
+W name johnage mysz year trim age replaceAll john
+int class generated a nextLine ar Scanner size ArrayList add method String for out else public stub in if static i TODO nextInt println void return import new remove b ana main get Auto args Anagram sub util System count
+ArrayList
+String char
+java files unzip VulnerabilityChecker static getRuntime checker project Exception main null FileUtils next destDirPath lang getName String for getAbsolutePath not Jar if toFind unzipping directory exec Collection hasNext currDirectory d endsWith Parameter YounghoonKwon a at iterator root IOException jarList this Curr Runtime file analyzer println catch https File recursive printStackTrace org try is validateListFilesParameters zipFilePath test io unzipJars throws add out public younghoonkwon IllegalArgumentException boolean recursion JarParser true commons e com listFiles void Nested Iterator new github jar Users vulnerability System apache
+SupressWarnings
+rdoba String new Aires Plata La ArrayList Buenos add places C
+int ArrayIndexOutOfBoundsException getSum class child Scanner sumObject String Summation out public static Sum upper InterruptedException join parseInt println catch e void import Driver new try main start args util Integer System Thread
+IDE
+int while class generated y a r Math Main Scanner problem method stub String for out else public acmicpc in boolean if M static i TODO dfs A true j nextInt cpn compare nx abs visited println void https import return new num x flag b diff cpt main false break ny continue sec Auto n l B args flags change util www net System scan
+Socket Echo FTP FX HTTP GUI
+jar
+int i total System out for println
+int while getDivSwapCnt byte setBuffer if true fileSize setProgress buffer value combineByteArray new write break progressDialog existVideo length isVideo read
+anonymous nested Nested static class member local inner Class
+byte io File
+
+
+int class name index Scanner String out for public this in static i usermanagner println void u import new showUser ID carr main csms CSMS usermanager Name n ma args private user util showAll System package scan
+String
+int class fact Scanner String out for public in static i print j nextInt double ins sum e println void import Infinity new Test main sc n args util System
+at myContext ReadLine this getAssets BufferedReader open line undefinded constructor file Multiple File InputStream new br is C markers The StreamReader txt readLine OpenText
+Ctrl L
+Set while class dfdsa iterator size add dada String out public boolean static dsafd iter co println hasNext void import str http Iterator new Generic questions yesorno main dfds args tryhelloworld next HashSet util System set kr
+Class
+int playbackEventListener ConnectivityManager Handdrip getSystemService WIFI getNetworkInfo isConnectedOrConnecting public this boolean Log if android setNegativeButton i setMessage Check onPlaying onClick cm DialogInterface isWifi builder void new AlertDialog d YouTubePlayer TYPE CONNECTIVITY SERVICE OnClickListener Mobile MOBILE private setTitle isMobile g setPositiveButton finish PlaybackEventListener Override Wifi dialogInterface Builder
+Restful iOS Rest WebApp Native swagger URL API Android
+int if q i length index count equals Arrays System out p for println
+View NullPointerException res setOnClickListener MainActivity paddingLeft packagename onCreate savedInstanceState Layout fragment layout schemas dimen add context protected height xmlns id if android hashcode XML PlaceholderFragment R tools super commit view match com void horizontal http Activity setContentView new dp margin paddingBottom RelativeLayout paddingTop findViewById main apk container null NPE paddingRight getSupportFragmentManager wizard vertical activity Bundle width something parent Override OnClickListener xml beginTransaction
+parseInt case default switch Integer s c string
+void tmp code while private if f D indexOf playCode String C substring else string
+int DES inInts for des keysi SP leftt xaaaaaaaa ffff fval void ff work x outInts keys f private right round
+Bitmap Blur x blur
+
+btn no jsp png a type dependent window img fpz sharer height this if open images equals scrollbars kakao src request com facebook https u url return skin php status story location href menubar false toolbar alt B getContextPath fullscreen share onclick www resizable width
+int getAge register case default while class name Number Error Scanner idNumber NoSuchElementException object String Obj out public this in id static print true nextInt switch input age numOfObjs println void return import new scanner num ID StringTest main break continue Age registerObj Name n args private next getIdNumber util setObj menu objs System close end getName
+NavigationView setNavigationItemSelectedListener class MainActivity java drawer present layout own protected inflate navigationView else loop full PID appcompat lib show noinspection Toolbar getItemId MenuItem of junhee setContentView onNavigationItemSelected fab your button so performLaunchActivity main as dispatchMessage Method null string items os settings setcontentView activity gallery share Snackbar lang run LENGTH parent xml int navigation adds you getMenuInflater type reflect onOptionsItemSelected onCreate superclasses closeDrawer Handler extends H OnNavigationItemSelectedListener its if slideshow declaration toggle open nav here clicks StatementWithEmptyBody R performCreate super view internal AppCompatActivity Action return specify ActivityThread it I callActivityOnCreate make long FloatingActionButton v slice ActionBarDrawerToggle camera bar on Bundle Navigation will AppCompatDelegateImplV GravityCompat at setOnClickListener syncState a MethodAndArgsCaller Home in this send android title automatically implements LONG appears START Landroid wrap code Up Drawer to handleLaunchActivity apk is Instrumentation The the toolbar isDrawerOpen myapplication app Inflate close Replace Override ensureSubDecor No View createSubDecor savedInstanceState item invoke public handle id AndroidManifest boolean SuppressWarnings split true Menu onBackPressed ZygoteInit onClick manage com void handleMessage Activity new onCreateOptionsMenu Handle DrawerLayout with NoSuchFieldError setDrawerListener findViewById SimplifiableIfStatement Process action field support Looper or data Native menu setSupportActionBar setAction OnClickListener
+dllhost exe
+int Object o compareTo CircleTwo c public CompareTo
+
+break continue
+pathSeparator path File separator
+n jsp android tcp js ajax node s p
+class java choice Scanner else static switch ScheduleAdd main null util image int png month res FileReader Z String if FileWriter nextInt wijigpqrfwbqububqpcq WriteDiary http d writeDiary write year GregorianCalendar break z v scheduleAdd txt readLine Calender upload case while eightcruz cal IOException NoSuchElementException c in cloudinary print schedule println catch import File scanner try br ctrl args day io Display close Integer ex InputStreamReader nextLine throws addDiary out public BufferedReader Calendar parseInt e com void new DiaryMenu Ctrl KNKDiary System read sch
+MD Random jsp oauth API
+Boot rowdata int temp body while r bodyList PUT imageOutFile byte String multipart POST inputStream MultipartFile split ii nRead Flask ReatAPI Spring buffer getBytes InputStream new toByteArray write final FileOutputStream form n Users test length Downloads data close req read tmpArgs jpg Python getInputStream HttpServletRequest
+class name Caleb Main pool Reference String Pool out runMethod public AnotherClass static irm hashcode expression Canstant println First void of new project Constant main start ConstantPool args private operator Second System package illegal
+https ms MS png res rhd image rtxiudjgw eightcruz to v com apo upload UTF cloudinary
+int parameters void boolean use three c here all bool String false MyParameterizedFunction param public this
+euqls equals
+Server t png res eightcruz Templates cloudinary hguskg Existing eqpakjuyevvhlizylpsi rbynxa Next com http afwywhognlptcepopxee new instance jvyc sexuwk v Create Name uecfcp upload image ktsd
+
+xsi execution minimumTokens schemaLocation name check targetJdk goals noNamespaceSchemaLocation reportLevel xmlns description cpd true rulesets Custom property ruleset DoubleCheckedLocking priority value http groupId rule physical JDK org location properties xsd instance version artifactId project eclipse plugins PMD plugin sourceforge ref configuration priotiry pom maven executions w basic mars www net XMLSchema apache pmd linkXref xml goal
+HashMap
+KeyEvent process throws tab String out else public robot boolean if ALT static Robot true JAR Runtime exec getRuntime println catch e void return TAB isRunning new jar AUTOTAB try Exception main exitValue false p Process alt HandPoint args System VK keyPress
+gender new enum MALE FEMALE Gender
+int boolean if gameScore infiniteMode byte else
+can sxet png res eightcruz Tooling not cloudinary You ntpz Gradle ysi com because import Can http STS install k it Dashboard wvii project installed eclipse gradle using is from v the starter upload image
+aa a json b studentname mysql
+NetworkService int MediaType requestFile body call class isSuccessful enqueue t getMessage insertPromoteMsgApp RequestMethod Callback method Part out multipart public else POST do Log if static i MultipartFile insertPromoteMsg Throwable writingArea Override RequestBody createFormData file promoteTitle println return void value File new ResponseBody onResponse contentType parse create onFailure interface EditText retrofit Call null insertPromoteMsgAPI Multipart RequestMapping private imgPath Response test insertPromote MultipartBody ResponseCode data response System uploadFile getContentType getName form
+int Mnumi i length Mnum for h
+setters getters static
+String list array ArrayList
+select no jsp employee OracleHelper emp A dept from where
+JNI OS Library X ls VirtualMachines
+F
+ArrayIndexOutOfBoundsException wincos destImg at reflect getMessage destWidth Source IOException invoke INT dest setRGB BufferedImage e catch com sun NativeMethodAccessorImpl destHeight grabPixels new wein awt TYPE try ImageUtill cc convContCtl Exception ImageIO write Method pixels resize pg Unknown RGB DelegatingMethodAccessorImpl photoSend lang Native jpg throw image
+VM CSV OutOfMemoryError MB
+int HashMap String for out public static i println void value key new map main put string hashmap args Integer System
+shpw jsp class tr name text type res image png eightcruz cols trim method getContent cloudinary Function getRegDate submit hr td title post tbSign oojtzu input zvk content rows table getTitle board value https com getBoard proc action v DB textarea getCnt ahj updateBoard upload Search form
+JButton setBorder t JOptionPane class java Main size JTable getContentPane ArrayList pdb else iixpcboe static setFillsViewportHeight DC invokeLater list Runnable setColumns awt pilotlist Exception main CLOSE null DBadd B private uCC util arg run setVisible getText image int png res border BorderLayout wr uAE extends String for pilot if D i JTextField EXIT GUI Null table ON setLayout return Dimension swing uCD btnNewButton uC xu get v DB Launch doomytnuhjantl w setTitle colnames ActionEvent application label set setViewportView addActionListener upload a contentPane eightcruz JPanel db cloudinary getCount frame JScrollPane EmptyBorder equals setContentPane catch https import event printStackTrace uAC try JTABLE Test s C p the uBA args ActionListener setDefaultCloseOperation count Override textField model setBounds showMessageDialog add public JLabel true uD Flight javax e com void getpilot new EventQueue Pilot DefaultTableModel Create Object n lgwye scrollPane data JFrame actionPerformed
+
+byte array InputStream
+int class word String for byte out public BCDefgHIJklmnOPQRstuWXYz if static Testtest i split j ABCDefgHIJklmnOPQRstuWXYz toCharArray println void new b array arrayChar main break BCDHIJOPQRWXY args CDHIJOPQRWXY char length Terminal count System einString askString
+int TestCode class text throws String byte for out public this static ABC i file println void import getBytes new fos b specified stream to Exception write main Writes FileOutputStream the output Stream args txt test io length data flush close System
+select Elements class a wfootball index Jsoup jsoup String out naver toString doc div schedule sports before println matches com nhn http Document connect category get inner news game System epl
+int if boxing a unboxing true b Integer auto
+equals hashCode
+https png res w ogfx eightcruz al cloudinary yx v vf sta upload image com
+int B i A for
+int MAX SECONDS static MaxSeconds class final public
+mysql
+Char temp List new char add lang ArrayList get IndexOutOfBoundsException Temp
+while class generated y text item Scanner stub method String out public in List static TODO double input division println void import new x main area strong nextDouble Auto args util System
+static
+write PrintStream
+value HashMap Key hashMap Integer String string
+JButton Images class png at rightButton Source handleChunk PNGException Main setIcon setBounds add produceImage leftButtonbasicImage public rightButtonbasicImage fetchloop ImageIcon getData Override ImageFetcher HAND file doFetch leftButtonbasic e setCursor sun void setBorderPainted mouseExited new awt rightButtonImage mousePressed mouseEntered Cursor PNGImageDecoder leftButtonImage setContentAreaFilled Broken false leftButton MouseAdapter CURSOR Unknown private pngassert addMouseListener setFocusPainted MouseEvent run getResource setVisible rightButtonbasic InputStreamImageSource image
+getResources class HashMap Volley else jsonResponse INT Log V static isSBSettingEnabled UserValidate show Listener Exception final jsonobject put null Method getParams os private getText parameters setEnabled Static userID extends String Button queue if D Build R super colorGray builder return http AlertDialog onResponse newRequestQueue create I false responseLisnter build color v OnClickListener Response setPositiveButton success StringRequest RequestQueue setOnClickListener toString this ViewRootImpl listener android equals HTTPLog catch idText printStackTrace getBoolean try oncreate URL getColor ValidateRequest cafe test response ViewPostImeInputStage man Override View VERSION dialog validateButton add StrictMode out JSONObject public permitAll id POST boolean setNegativeButton setMessage true validate onClick setThreadPolicy e com void processPointer Map SDK new php ThreadPolicy validateRequest setBackgroundColor findViewById policy System RegisterActivity Builder
+API JGraph
+Kernel
+class MainActivity java layout onStop protected sort else Log static StringBuilder number setContentView NumberFormatException final main mCountSpinner os private activity numberText log util TextView getText package int Math lottonumber onCreate extends String for Button if i initializeUI R super view example return onDestroy d append false sb Bundle setText result lottoCount getSelectedItem lotto setOnClickListener spinner makeLottoNumber printResult this toString android TODO mGetNumberButton j implements equals catch import implement try EditText inputNumber s hasDuplicateNumber getRandomNumber resultNumber onResume length app Integer Override Arrays View btn TAG onStart savedInstanceState public id boolean true onClick parseInt JYIM e com void valueOf Activity new random num widget findViewById n Spinner OnClickListener
+int ModelAttribute Model model Criteria RequestMethod updatePOST redirect throws update method String public POST addAttribute cri logger BoardVO modify bno void return value board RequestParam service Exception info GET p listAll RequestMapping read updateGET vo crud
+static PrintStream final System out null println public
+rEkGf UI call class Context java download layout HttpURLConnection ArrayList protected inflate else reference static gridbase line StringBuilder tools list setTag optJSONObject url setContentView layoutResourceId Picasso Exception final holder main mGridData items null JSONException os private empty lang util feed parent row TextView asynchronously run script Worker adapter gridView getInputStream int image GridView Lets textview runWorker mGridView Initialize JSONTokener onCreate extends SerialExecutor String for titleTextView if macros position i getString doInBackground R super assert view Start exec execute AppCompatActivity return Download getTag setImage ArrayAdapter onPostExecute finally json ColorMatrixColorFilter stream complete AsyncTask get false refresh err convertView nextCleanInternal Parsing into on Bundle setText setTitle readLine imageView result getView virtual notifyDataSetChanged results while urlConnection a at bufferedReader FutureTask Void IOException method param this in toString LayoutInflater optJSONArray android o disconnect title setGridData androidtown params ED nextValue grid catch getTitle https W mContext setAdapter printStackTrace org try to rUmfDdabTA URL s the Updates ViewGroup ViewHolder length response close ThreadPoolExecutor Override ezcoffee View getImage NullPointerException openConnection and zPvG InputStreamReader X item savedInstanceState throws mGridAdapter update opyJ add grayscaleFilter JSONObject object getLayoutInflater AsyncHttpTask public invoke init id concurrent BufferedReader Close Downloading ImageView AKfycbxW Json streamToString e com void BufferedInputStream Activity new google InputStream base with parseResult connect findViewById Attempt reader JSONArray posts load zbHOvHQdVGn data System Thread inflater
+reader http EUC client new urlConnection BufferedReader InputStreamReader Endcoder String volley KR getInputStream
+out print System
+int nextXXX stop and enter nextLine Scanner String out for waits this here line my numerical nextInt Enter input after option appears reading println but value supposed program st to wait is from string the right System read skipped executed nd
+xA A x xBF array BF byte
+int temp a naive train for classify public i bayes double void return ExtractedInfoPoint Bayes trainingInfo b validationInfo points length Naive dotProduct Override
+Intent READ size BROADCAST inflate else Log setLayoutManager WillService setCancelable missing of NEW FormValidator font mInputMsgLayout INVISIBLE fromHtml deniedPermissions Snackbar linear arr LayoutManager txtSelectBtyPerc int default Do SMS blank setPreferences willBeDisplayed ACTION setPermissionListener batteryProgress getmMessage TYPE LocalBroadcastManager makeText Collections LinearLayout getActivity Html setPermissions BatteryCheckService listener setVisibility OnSeekbarChangeListener implements getTime battery b registerReceiver try to mFabSendToFb the GOOGLE originally getRunningServices parseColor activities dialog Error getReference out id setMessage true input onClick setMinValue initDataList void PreferencesUtil txtMin Activity RelativeLayout CustomTextWatcher findViewById RecyclerItemClickListener DataSnapshot container strong setHasFixedSize getChildren cancel call mWillService CONTACTS recycler fragment DATA PHONE cracking mEditMsg content FirebaseUser fab ActivityMenu displayed AppFragments layoutManager string private ActivitySelectContacts getText Destroying you OnItemSelectedListener type extends API String edit position i example return hidden ActivityThread GoogleSignInOptions E Init make color min setTextColor set Called getCurrentUser a what smoothScrollToPosition FirebaseAuth Nullable TimeCalculator getUid requestIdToken equals setArguments loadAnimation getClassName catch setProgress startService willDatas printStackTrace perc msg mSelectedPercentage connectionResult calculateTime Override View onPermissionGranted VALUE Number willBeHidden LinearLayoutManager add startAnimation onConnectionFailed IllegalArgumentException split onCreateView com AnimationUtils onPermissionDenied addApi getIntExtra fade newInstance Color that FirebaseDatabase demo txtDataSetting Create alert n DatabaseReference has System getContext Refresh Animation ArrayList getInstance registered mid PermissionListener ff IntentReceiver fragmentContainer onCancelled final TedPermission null RunningServiceInfo userData recyclerView parent adapter progress issue ValueEventListener getInt valueChanged pos txtMax TextInputEditText userDatas if here getString R Manifest super was DatabaseError bty IN val SIGN mFbUser false get build long Are v SEND putInt txt setText startActivity addTextChangedListener setOnClickListener fbase initDemoSettings toString addOnItemTouchListener AdapterView send o println MAX service TextInputLayout ViewGroup showWarnDialog Integer Comparator be DonutProgress index context which RecyclerView boolean setNegativeButton Auth seekbar googleSignInOptions compare parseInt calculator e value valueOf new devicewills STATE mFbDb ActivityManager anim onNothingSelected OnClickListener Builder Class client class Toast Context alertDialogBuilder check CrystalSeekbar onItemClick layout setIntPreferences sort manager confirm GoogleApiClient static setting list show isMyServiceRunning DialogInterface jflex top userDatabase IntentFilter instance getArguments percentage web serviceClass settings stopService TextView mCurPercentage LENGTH SHORT mListPercentages databaseError max getName permission mBatteryRecv getSystemService onReceive dataSnapshot for OnConnectionFailedListener animate intent view onDataChange AlertDialog DEFAULT create FloatingActionButton refresh DB BroadcastReceiver Bundle onItemSelected setPositiveButton getValue will setDeniedMessage unregisterReceiver fadeOut in VISIBLE LayoutInflater ConnectionResult devicewilly want NonNull Fragment OnItemClickListener setAdapter isValidMsg crystalRangeSeekbar FrameLayout setOnSeekbarChangeListener ACTIVITY requestEmail DataListAdapter addValueEventListener getmBatteryPerc savedInstanceState setMaxValue public onDestroyView mFbAuth fadeIn getmInsertDate setUnfinishedStrokeColor UserSettingProfile destroy SERVICE leaked mGoogleApiClient when menu inflater
+int throwFor class a at java Scanner object NoSuchElementException String out in public doc if static nextint exhausted nextInt input file println void import Unit StackOverflow new Exception main is HelloWorld sc args next test util thread System
+jsp body text name uri Tiles taglib layout language title tags html DOCTYPE http HTML Apache org contentType charset insertAttribute page importAttribute UTF footer meta head tiles JSP prefix pageEncoding header apache script xml
+oooUtil android oooFragmemnt activity util fragment adapter view oooActivity oooView oooAdapter
+JButton class getContentPane SOUTH static awt x button main CLOSE f getText setVisible image png res BorderLayout ju newlabel extends String if click EXIT ON Dimension swing ubb v executive revalidate ActionEvent setLocation success label upload addActionListener eightcruz JPanel Prefered this cloudinary frame my wfwttoslwgioj actionpoerfomed implements equals Size getSource https import repaint event b pack p args ActionListener setDefaultCloseOperation ac Gothic ex setFont add wxgbwgvmnzwzfbzthfl public setPreferredSize MyActionListener Font JLabel true e com void new ITALIC removeAll jpanel l JFrame actionPerformed
+String HTML amp replaceAll
+util XMLGregorianCalendar Date
+int n new i nextInt Scanner System s for in
+int se text api en Clear delete html StringBuilder oracle aspx com http docs microsoft x clear stringbuilder msdn system lang library us
+
+addFriend class HashMap name extends String public callFriend Duck Mouse friends T void return Map Animal new generic bark get put quack Dog quacker private instanceof animal unusedTypeObj jerry OOP spike
+transparency ByteArrayOutputStream Server client createGraphics serverIp DataBufferByte grayscale byte else INT bytes static disconnected getStackTrace rows imageInByte of Mat fileName incoming enabled Exception final main start Register null pixels capturing edqwifsyldchserk os empty workspace toBufferedImage toImage image ARGB int GRAY getInputStream oos default siehsohmq bais res type exit String for if baos D getData BYTE return http storing getDataBuffer finally TYPE ImageIO write get color lmv v z fr ByteArrayInputStream camera on bGr jpg bufferSize DataOutputStream upload getWidth isOpened while a BGR eightcruz Image img cols socket dispose cloudinary frame PC DataInputStream message Matrix Check all getRaster println catch OutputStream OpenCV File drawImage printStackTrace b try to targetPixels toByteArray accept VideoCapture imag is C from the ObjectOutputStream Return args bimg Transfer dirName test length close count No ois FileSender fs m Graphics out public true buffered getHeight BufferedImage Draw cm ObjectInputStream e com void getOutputStream writeInt new video InputStream arraycopy with readInt captured Create Socket setCameraView Users cap instanceof readFully or data System bimage channels read hnyn FileReceiver jpi
+StringBuilder StringBuffer
+https org github releases unicode tag icu release com
+select Elements png elements tr res eightcruz jsoup cloudinary gvqywo doc yhh com https x b v irzto tabinex upload image
+focusing
+long Random Scanner
+name defualt car String public
+BufferdReader BufferedReader Scanner
+maven vi HashMap JAR jar crontab object export API Runnable dependency
+JAR jar class
+void int static args new array equals main String Arrays public
+int new true array false
+int String Int
+int drop while class Math ProducerConsumerTest synchronized out for String public this Consumer boolean InterruptedException static i true lect notifyAll implements Runnable e catch println return void buffer sleep producer consumer new Buffer printStackTrace random try Producer wait false get put main start args private empty data run System package Thread
+import B Gradle A library C dependency
+http png res fh gmfgkwytu eightcruz ogrey cloudinary v upload image com
+setDataSource can UI class Toast Context MainActivity check asked layout recordStopBtn playAudio FILE release protected ContextCompat own else permissions granted Log M static PackageManager show GRANTED only before getCurrentPosition url setContentView AUDIO grantResults so RECORD Fire Exception final main start explanation null private activity standard MediaPlayer requestCode LENGTH SHORT Use Show int give permission needed default AudioRecorder onCreate recordStop OutputFormat killPlayer WRITE STORAGE TargetApi playStop extends CODES checking String Button RecFile for requestPermissions setOutputFile more if Build play playBtn through R requesting MIC super Manifest an denied return This onDestroy it why DEFAULT version explain get player makeText Starting PERMISSIONS v build async Stopped Bundle will Marshmallow shouldShowRequestPermissionRationale onRequestPermissionsResult at setOnClickListener recorder IOException MPEG If getApplicationContext off Callback this in prepare need checkSelfPermission Make mp been Check getPermissionToRECORD calling about REQUEST want catch NonNull our already showing MediaRecorder printStackTrace try sure pause to s is from The the user NOT length sdcard Override time View stop PERMISSION Recording and VERSION savedInstanceState dialog throws Settings revoke EXTERNAL public id AudioSource available setOutputFormat any we avoid CAMERA playbackPos onClick AudioEncoder Playing even e actually request void since Activity new onPause contacts playStopBtn with findViewById original support recordBtn has Always setAudioEncoder read library record OnClickListener
+equals
+
+int Age Player Enemy name hp Character super age String ex
+int szie while SIZE DATA size method bis byte String socket dos send FileInputStream input file BufferedInputStream OutputStream getBytes getOutputStream new METHOD byteArr write inputstream string UTF os data Contents flush contents DataOutputStream count fis read
+
+IDE
+n i hashCode s String
+int temp Math JOptionPane class showMessageDialog Array exit String for public toString if static i print list void import of new random swing x st main null ArrayExcercise practice args length Integer System package end
+crowded Swing GUI
+ListView NavigationView text res drawer layout schemas img object height xmlns drawerTxt id android drawable true setting design ImageView list content match include marginTop wrap com http getheader below dp widget RelativeLayout background padding gravity center apk drawerBackground alignParentBottom color string null centerHorizontal support login txt clickable textColor vertical app parent TextView width
+GUI AWT Swing
+jsp
+class ReadOnly throws setData ExampleService extends method HandlerInterceptorAdapter setTotal param public preHandle do boolean readOnly true ExampleDao SheetResponseObject mvc request return getUserList new Autowired getUserListCount Exception HttpServletResponse getAnnotation ExampleParam null getMethodAnnotation Object private responseObject exampleDao handler response Service something getBeanType Override HandlerMethod DataSourceRoutingInterceptor HttpServletRequest
+Externalizable Serializable
+edittext http IME findviewid questions activity root view get com stackoverflow from current popwindow
+
+TestController TestService Autowired testService public
+nlu UI class name java total HttpURLConnection protected paser else dbserver Log line StringBuilder getJSONObject indate url STB x Exception setListData null JSONException EUC private CR image getInputStream int Lets png res String for qfrdtsp if stb D i getString doInBackground assert return Download http biz status finally onPostExecute d json stream complete center v err UC setText Tab getActivity readLine result net upload temp while at urlConnection y eightcruz Team in cloudinary toString qty android disconnect sum params equals gmrg catch LTE W printStackTrace try LG mListData URL s C team asyncDialog pro length response CT close Override IO fft TEAM View TAG date works model openConnection InputStreamReader item update add KR AsyncHttpTask id tel BufferedReader Close mListAdapter cm SX e com BufferedInputStream void new key php InputStream dismiss oh parseResult connect SMT reader JSONArray Adapter System tv
+String equals
+https MvcPortletTemplate darragh webmvc github portlet liferay murphy egov com
+int class word String for out public static Testtest i split println void return array countCaps main string args length Terminal System einString askString
+attrs class Context Configuration layout annotation inflate androidx CommentItemView tools of comment see private TextView Comment LAYOUT compile r getSystemService annotations extends String more R super Id http d LinearLayout setText will api at replaced this For LayoutInflater been android Modules Nullable configurations html AttributeSet removed setId is the dependency listview information app act and obsolete be update context init public id true com void It Affected with implementation findViewById INFLATER SERVICE support setComment has WARNING end inflater
+XX System currentTimeMillis X
+apple String new
+id Redis Security password DB
+Content name java download JasperException Cause language do Root BoardDetail jspService full SUBJECT JspServletWrapper server line Simple solid DOCTYPE doFilter HttpServlet content board top runtime of contentType href project Exception Stacktrace Css filename null condition BoardBean getNum right REPLY JSP getSubject tomcat pageEncoding px www CONTENTS lang width padding EDIT handleJspException body th servlet tr border BoardModify type PUBLIC BoardList auto height Report Message if Note td TITLE processing unexpected an BOARD table http TR it center JspServlet equiv VIEW dao meta head encountered logs DTD w loose BUTTONS serviceJspFile a at valign root getContent cellspacing in exception BoardReplyAction title html DELETE occurred import W service EN org margin is C from The the style websocket Description getAttribute align jsp NullPointerException text An prevented getFile cellpadding HttpJspBase available colspan LIST WsFilter javax CONTENT request com Transitional css HTML h stack jasper num Type charset that page nbsp trace UTF fulfilling dtd cause BoardDelete apache
+SQL util Date API sql
+HashSet Set LinkedSet
+Content java display XMLHttpRequest Control HttpURLConnection EA utf else setDoOutput static pValue line co AC url Cache Exception onestop put null B private EC kr getInputStream int YEAR no wr String if middleware D hashcode OutputStreamWriter getHttpHTML return http finally questions json college write readLine result application pusan while what BC IOException Accept pName toString returns EOF A post html ED println catch getResponseCode https printStackTrace try setDoInput GUBUN URL br C the CULTCD con ajax With curriculum io HttpResult ac Premature close setRequestMethod JSON openConnection Requested InputStreamReader X object add EB JSONObject out CollegeAssignInfoSearch POST TERM BufferedReader true HTTP cache e request getOutputStream new DEPTCD OK GreppTod Type JSONArray n Payload getResponseMessage data flush System setRequestProperty
+
+return boolean atLeastTwo if a true b false c else
+int number listView if tPhone pref i getString tName custom size addItem get equals nickname for tAddress adapter
+export jsp tomcat war
+class DISPLAY display fragment layout setPublishedAt ArrayList Fragments protected inflate onPreExecute Log static YoutubeDataModel setLayoutManager search getJSONObject constructor Required url thumbnails ID order googleapis items null publishedAt JSONException private empty HttpClient www creat adapter RequstYoutubeAPI form int libEGL thumbnail extends API jsonSnippet String for high kind if error i getString doInBackground R super getJSONArray view execute an VideoPostAdapter return onPostExecute json KEY E AsyncTask GET false get HttpEntity DefaultHttpClient v Bundle Tab getActivity setTitle EntityUtils jsonArray setThumbnail getEntity videos Void IOException maxResults this toString YOUTUBE LayoutInflater title httpGet all CHANNEL params equals setVideo catch Fragment https setAdapter printStackTrace BAD HttpGet try to mListData URL mList from youtube the GOOGLE ViewGroup tha youtubeObject HttpResponse UCyn length Inflate response Override channelId View date httpEntity part savedInstanceState CHANNLE tab LinearLayoutManager EGL add setDescription JSONObject public description RecyclerView id jsonID validate onCreateView e com void snippet key new video initList findViewById container jsonObject JSONArray has httpClient data parseVideoListFromResponse inflater
+int previous class iterator Iterable size for public this List boolean i T ListReverser Node implements wrappedList hasNext return void ListIterator Iterator new remove final listIterator get iterater hasPrevious each private next nodes
+int temp ArrayIndexOutOfBoundsException lookCard String out for in if static i j myCard of Index Exception main bounds length lang thread
+return int void static class String a args b add main adder c method public
+getProperty getCanonicalPath java out String WINDOWS println current File new Current using C system user dir io System currentDir
+dd yyyy mm
+Point getY Math class y dy getX String c out public this distance static sqrt D move true double println return void new x dx Circle Test main false p contains args private System
+temp int no case while class toPostfix default peek Operate isEmpty out String else this public for delete boolean if printStack static postfix i print testCh j switch Node charAt println stackSize return void top calPostfix newNode LinkedStack new infix opr link s main break null push HomeWork Object args char length pop data result System
+class path guide frontweb insert update interceptor delete static file include mvc bean exclude core properties map somewhere main ScreenProvideInterceptor interceptors cdnetbs mapping XML
+Ninput if a s equals add getText
+util deprecated Integer Date
+a path b join System out println
+http ofxpcvrrb png res k ebqerlj eightcruz cloudinary kvgkjmgxktegzxqafavt v upload image com
+
+xsi exclusion mapper auth schemaLocation clearCache dataSource class Context name webmvc Logging jstl initialSize layout jndi DataSource xmlns sqltiming Root minIdle setting typeAliases logger oracle springframework list DOCTYPE constructor APACHE over sqlonly of url runtime LOG x legacy ID instance aspectjrt logging main web jcl password resource pom jmxtools settings log tomcat arg www XMLSchema JNDI ref maxActive RELEASE PASSWORD xml sqlSessionTemplate level Tomcat servlet validationQuery res type PUBLIC rdparty exclusions sqlSessionFactory SQL META logImpl Mybatis dependencies username WAS resources mybatis sql schema jee Exclude Spring inject http groupId core defaultAutoCommit version artifactId jdbc false configuration Inject WatchedResource DUAL beans console lookup DTD w Appenders junit Resource SELECT encoding INF api mapperLocations appender resultset pool root provided FROM method c param Application in jdmk audit jmx j property Container ConversionPattern aspectj src sun EN org Servlet slf warn URL config Test favor p dependency SqlSessionFactoryBean test g jmxri spring Target factory SLF jsp Mapper context m WEB out Oracle AspectJ id PatternLayout Maven true commons javax priority OracleDriver webapp SqlSessionTemplate value bean mail com jakarta xsd Loggers scope driverClassName destroy info Commons ConsoleAppender UTF maxWait driver n debug Logger configLocation dtd J DataSourceFactory System apache classpath jms
+class Google world String like public gson there Hello jsonLine translatedText would translations com void https google github parse to I get JsonParsing data Gson JSON
+ASCII
+https Variables JDB png res api eightcruz cloudinary v ffatnkxkaqzwnbqngye upload image com
+STS web tomcat toad bundle sql table
+createTable png res CENTER BorderLayout contentPane eightcruz add JTable cloudinary true orv JScrollPane poa com void table http new reLoad v setAutoCreateRowSorter scrp private g gbooiq upload image
+int View btn a setOnClickListener method JVM id static R onClick void new final v findViewByID TextView tv Override OnClickListener
+Mcdonald skeet toLowerCase o miles old Brien mcdonald Skeet O Miles toUpperCase Old Jon jon McDonald
+https iuziy png res mgxwx gone j eightcruz cloudinary fs m visible v upload image com
+getProperty while FileReader throws IOException ls String toString BufferedReader line StringBuilder file return new finally stringBuilder try append reader null private separator readLine readFile close System
+https nearbydelta github com KoreanAnalyzer
+return admirer str if admie admire x length else method charAt String substring replace public
+
+process Resume Multithreading Main multithreading thread Thread Pause
+select class generated setPassword DBID BDto ArrayList home else Arraylist boardlist Controller BDao DBPW list writer constructor modify content number replyview pw getEmail password getMapper Auto login char util getParameter package xml int Model getPassword stub String delete if pjt getNumber Loginfail setEmailCheck view return email reply interface write nickname false sqlSession get setEmail DB dao min getEmailCheck resultType arraylist mdto replycontent redirect passwordAn param toString this dto member title TODO hit getNickname join equals setNickname HttpSession session println Mdto import setId setMaxInactiveInterval from RequestMapping user hassession getPasswordQue model setPasswordAn out public passwordQue id boolean addAttribute true FreeboardReplyDto request com void num setNumber where setPasswordQue setAttribute loginflag getId getPasswordAn System emailCheck HttpServletRequest
+VM
+Server client class java ArrayList ConnectionToServer static server single x pw Exception main start null ConnectionToClient sendToAll util keyboard ServerThread run package getInputStream int drawMap oos yAndX clients extends String for toPrint List obj if i Client return ServerSocket readObject complete write break messageHandler readLine net QUIT multi while y initialLocation socket this in gui writeObject message j equals PrintWriter println catch import connet printStackTrace try accept br ObjectOutputStream args io response close Integer InputStreamReader ois INFO add out public BufferedReader split true mHandler input parseInt ObjectInputStream e void getOutputStream new conToClient command continue Socket Object flush read System Thread
+DefaultComboBoxModel JButton class generated HashMap name java setIcon Main MMS size ArrayList getContentPane static HEIGHT awt button background final main put null Auto private WIDTH groupnum util setResizable package setVisible getTel image int conferencesystem type JComboBox SMS addItem extends stub String ConferenceFrame for Message obj i JTextArea icon are sms setLayout sdk swing json version LMS false get v SEND textarea tellist setTitle nurigo ActionEvent jpg net coolsms application label addActionListener combobox api getMessage SCREEN JPanel method this toString simple gui send TODO smsbackground images implements params DBConnection must println catch import event org setLocationRelativeTo try to from args ActionListener app mandatory getResource Override text and be setFont setBounds SMSFrame add JSONObject out public SendMessage Font connection tel JLabel true ImageIcon ATA exceptions javax e void setBackground SDK new BOLD key setSize JAVA filled Color panel getCode secret System JFrame actionPerformed CoolsmsException
+
+ovvdxcjimzxmz https cnziue png res eightcruz cloudinary fx v upload image com
+void static args switch main String public
